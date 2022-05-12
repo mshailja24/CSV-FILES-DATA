@@ -1,0 +1,830 @@
+Scheme	Batch ID	TP name	AA name	Job role	Assessment date	Candidate count	Attended	Passed 	Failed	Not appeared	Result approved on
+SDIS-OSDA	1108	Quivan	VET	Asst. Plumber CON 705	23.4.2019	22	20	19	1	2	22.8.2019
+SDIS-OSDA	213	Quivan	VET	Asst. Plumber CON 705	23.4.2019	30	20	11	9	10	22.8.2019
+SDIS-OSDA	2037	ASMACS	VET	Asst. Plumber CON 705	22.4.2019	30	21	20	1	9	22.8.2019
+JSDM	430397	Data Pro	CoCubes	Plumber General-2	18.7.2019	30	30	30	0	0	20.9.2019
+NULM	431613	TS Skills	VET	Plumber General	19.8.2019	25	5	5	0	20	23.8.2019
+DDUGKY	426534	NAC	SM	Plumber General	20.3.2019	14					13.9.2019
+JSDM	430446	Data Pro	VET	Plumber General-2	8.6.2019	30	30	28	2	0	23.8.2019
+JSDM	428975	Data Pro	VET	Plumber General-2	5.6.2019	30	30	26	4	0	23.8.2019
+NULM	431611	TS Skills	V.Saas	Plumber General	18.8.2019	25	9	8	1	16	7.9.2019
+NULM	431612	TS Skills	V.Saas	Plumber General	18.8.2019	25	10	6	4	15	7.9.2019
+NULM	431614	TS Skills	VET	Plumber General	19.8.2019	18	3	3	0	15	23.8.2019
+DDUGKY	434203	Pipal Tree	SM	Plumber General Assisstant	6.8.2019	30	25	23	2	5	7.9.2019
+NULM	419354	Frostees	V.Saas	Plumber General-2	12.2.2019	30					19.9.2019
+CSR-RPL (HSIL)	431740	Labournet	VET	Plumber General	30.3.2019	86	45	45	0	41	31.8.2019
+CSR-RPL (HSIL)	431681	Labournet	VET	Plumber General	30.3.2019	42	42	42	0	0	31.8.2019
+CSR-RPL (HSIL)	432460	Labournet	VET	Plumber General	31.3.2019	27	25	25	0	2	31.8.2019
+CSR-RPL (HSIL)	3816	e-Biz	VET	Plumber General	25.4.2019	56	56	56	0	0	23.8.2019
+CSR-RPL (HSIL)	3844	e-Biz	VET	Plumber General	14.4.2019	71	70	70	0	1	23.8.2019
+CSR-RPL (HSIL)	3849	e-Biz	VET	Plumber General	12.4.2019	51	50	50	0	1	23.8.2019
+NULM	423062	SKPVTI	V.Saas	Plumber General	12.7.2019	30	30	27	3	0	6.9.2019
+NULM	423065	SKPVTI	V.Saas	Plumber General	14.7.2019	30	30	28	2	0	6.9.2019
+JSDM	411706	SGRS	VET	Plumber Pumps & E/M Mechanic (PSC/Q0111)	12.9.2018	25	25	25	0	0	10.9.2019
+JSDM	412076	SGRS	VET	Plumber General Helper	18.9.2018	19	19	19	0	0	10.9.2019
+CSR-RPL (HSIL)	3867	e-Biz	VET	Plumber General	27.4.2019	28	28	28	0	0	23.8.2019
+CSR-RPL (HSIL)	4659	e-Biz	V.Saas	Plumber General	15.5.2019	80	80	80	80	0	7.9.2019
+CSR-RPL (HSIL)	4658	e-Biz	VET	Plumber General	25.4.2019	44	44	44	0	0	23.8.2019
+SDIS-OSDA	5362	ASMACS	V.Saas	Plumber General Helper	5.8.2019	35	25	23	2	10	7.9.2019
+SDIS-OSDA	5993	ASMACS	VET	Plumber General	12.8.2019	30	26	24	2	4	7.9.2019
+SDIS-OSDA	6005	ASMACS	VET	Plumber General Helper	6.8.2019	35	27	26	1	8	7.9.2019
+CSR-RPL (HSIL)	7110	Labournet	VET	Plumber General	16.7.2019	20	17	17	0	3	23.8.2019
+JSDM	7365	SGRS	V.Saas	Plumber General	8.8.2019	28	27	26	1	1	7.9.2019
+JSDM	7376	SGRS	CoCubes	Plumber General	15.5.2019	23	23	23	0	0	13.9.2019
+NULM	423061	SKPVTI	VET	Plumber General	11.7.2019	30	28	26	2	2	23.8.2019
+SDIS-OSDA	2318	Quivan	V.Saas	Asst. Plumber CON 705	19.8.2019	24	23	23	0	1	21.9.2019
+NULM	428123	Data Pro	Mettl	Plumber General-2	12.7.2019	30	28	28	0	2	24.9.2019
+NULM	428120	Data Pro	Mettl	Plumber General-2	11.7.2019	30	27	22	5	3	24.9.2019
+CSR-RPL (HSIL)	9029	Saltlake	VET	Plumber General	4.4.2019	51	48	44	4	3	24.9.2019
+NSFDC	11211	Quivan	Mettl	Plumber General	18.5.2019	30	28	20	8	2	27.9.2019
+NSFDC	13307	Ideal	V.Saas	Plumber General	22.4.2019	27	27	22	5	0	1.10.2019
+CSR-STT	9981	ISBE	VET	Plumber General	30.8.2019	30	25	23	2	5	7.10.2019
+CSR-STT	10010	ISBE	VET	Plumber General	3.9.2019	30	24	22	2	6	7.10.2019
+CSR-RPL (Watertec)	417407	SGRS	VET	Plumber General	4.12.2018	50	50	28	22	0	7.10.2019
+CSR-RPL (HSIL)	12515	Ideal	VET	Plumber General	16.3.2019	26	21	19	2	5	7.10.2019
+CSR-STT	6727	SDI	VET	Plumber General	24.8.2019	14	11	11	0	3	7.10.2019
+CSR-RPL (HSIL)	7161	Ideal	VET	Plumber General	10.4.2019	47	47	44	3	0	7.10.2019
+JSDM	8323	SGRS	VET	Plumber General	25.9.2019	28	27	25	2	1	7.10.2019
+CSR-RPL (HSIL)	12980	Ideal	VET	Plumber General	13.4.2019	45	45	41	4	0	7.10.2019
+CSR-RPL (HSIL)	13048	Ideal	VET	Plumber General	23.4.2019	30	30	28	2	0	7.10.2019
+CSR-STT	13550	ASMACS	VET	Plumber General	24.9.2019	30	30	30	0	0	7.10.2019
+APSSDC	425292	NAC	SM	Plumber General	16.3.2019	28	26	26	0	2	7.10.2019
+DDUGKY	425298	NAC	SM	Plumber General	19.2.2019	14	13	13	0	1	7.10.2019
+NSFDC	11151	Quivan	CoCubes	Plumber General	17.5.2019	30	29	22	7	1	7.10.2019
+CSR-RPL (HSIL)	3770	e-Biz	CoCubes	Plumber General	28.3.2019	49	49	45	4	0	7.10.2019
+CSR-RPL (HSIL)	3629	e-Biz	CoCubes	Plumber General	29.3.2019	79	79	72	7	0	7.10.2019
+JSDM	411400	SGRS	CoCubes	Plumber General	6.9.2018	21	21	21	0	0	7.10.2019
+DDUGKY	425539	ASMACS	V.Saas	Plumber General Helper	7.6.2019	35	25	23	2	10	11.10.2019
+NULM	428766	Data Pro	VET	Plumber General-2	29.6.2019	30	30	27	3	0	14.10.2019
+CSR-RPL (HSIL)	13149	Ideal	V.Saas	Plumber General	6.5.2019	45	45	40	5	0	16.10.2019
+Seekho Kamao	419110	LKPVT	V.Saas	Plumber Maintenance & Servicing (PSC/Q0112)	18.2.2019	30	22	20	2	8	17.10.2019
+Seekho Kamao	419116	LKPVT	V.Saas	Plumber Maintenance & Servicing (PSC/Q0112)	19.2.2019	30	24	19	5	6	18.10.2019
+Seekho Kamao	419107	LKPVT	V.Saas	Plumber Maintenance & Servicing (PSC/Q0112)	20.2.2019	30	28	27	1	2	18.10.2019
+CSR-STT	2658	IL & FS	V.Saas	Plumber General	5.8.2019	30	18	5	13	12	24.10.2019
+CSR-STT	434319	IL & FS	V.Saas	Plumber General	6.8.2019	30	27	8	19	3	24.10.2019
+JSDM	398161	SGRS	Khwaspuria	Plumber General	4.5.2018	18	18	17	1	0	24.10.2019
+JSDM	414096	SGRS	Khwaspuria	Plumber General	5.11.2018	29	29	28	1	0	24.10.2019
+DDUGKY	424628	ASMACS	Khwaspuria	Plumber General Helper	9.4.2019	35	35	35	0	0	24.10.2019
+CSR-STT	7075	ASMACS	Mettl	Plumber General	6.6.2019	30	30	30	0	0	24.10.2019
+DDUGKY	423257	NAC	V.Saas	Plumber General	24.3.2019	14	12	10	2	2	25.10.2019
+CSR-RPL (HSIL)	432350	Valeur	V.Saas	Plumber General	30.3.2019	50	42	42	0	8	25.10.2019
+JSDM	417088	SGRS	Khwaspuria	Plumber General Helper	28.11.2018	16	16	16	0	0	25.10.2019
+JSDM	411395	SGRS	Khwaspuria	Plumber General	3.9.2018	24	24	23	1	0	25.10.2019
+JSDM	417332	SGRS	Khwaspuria	Plumber General Assisstant	1.1.2019	15	15	15	0	0	25.10.2019
+DDUGKY	9266	Pipal Tree	V.Saas	Plumber General Assisstant	28.8.2019	17	14	10	4	3	25.10.2019
+NBCFDC	13288	SEET	V.Saas	Plumber General	4.4.2019	30	22	17	5	8	30.10.2019
+NBCFDC	13268	SEET	V.Saas	Plumber General	8.6.2019	30	30	28	2	0	30.10.2019
+DDUGKY	13252	Pipal Tree	SM	Plumber General Assisstant	30.9.2019	23	23	17	6	0	30.10.2019
+CSR-STT	6727	SDI-Vskpm	VET	Plumber General	24.8.2019	14	11	11	0	3	30.10.2019
+PDDUSKVP	10039	SDI-Vskpm	VET	Plumber General	12.10.2019	30	18	18	0	12	30.10.2019
+NULM	423064	SKPVTI	Mettl	Plumber General	16.7.2019	30	29	25	4	1	31.10.2019
+CSR-STT	9998	ISBE	V.Saas	Plumber General	2.7.2019	30	12	4	8	18	6.11.2019
+CSR-RPL (Roca)	18700	Labournet	V.Saas	Plumber General	31.8.2019	66	62	62	0	4	13.11.2019
+JSDM	10212	SGRS	V.Saas	Plumber General	18.10.2019	17	17	17	0	0	18.11.2019
+CSR-RPL (HSIL)	17385	Arambagh	VET	Plumber General	31.3.2019	50	50	45	5	0	18.11.2019
+CSR-RPL (Roca)	3720	Amass	VET	Plumber General	15.5.2019	18	18	18	0	0	18.11.2019
+APSSDC	21125	NAC	SM	Plumber General	11.11.2019	19	19	14	5	0	19.11.2019
+APSSDC	14521	NAC	V.Saas	Plumber General	14.10.2019	23	22	22	0	1	20.11.2019
+HPKVN	416858	Labournet	V.Saas	Plumber General	26.4.2019	30	27	5	22	3	20.11.2019
+Seekho Kamao	419191	LKPVT	Mettl	Plumber Maintenance & Servicing (PSC/Q0112)	21.2.2019	30	29	29	0	1	22.11.2019
+CSR-RPL (Kitec)	12365	Ideal	V.Saas	Plumber General	1.2.2019	35	35	35	0	0	25.11.2019
+APSSDC	14519	NAC	V.Saas	Plumber General	15.10.2019	24	24	20	4	0	25.11.2019
+State Govt-SC	418455	Saltlake	V.Saas	Plumber General	2.5.2019	25	25	24	1	0	25.11.2019
+State Govt-SC	421133	Saltlake	V.Saas	Plumber General	26.3.2019	25	25	24	1	0	25.11.2019
+State Govt-SC	421295	Saltlake	V.Saas	Plumber General	2.5.2019	25	25	25	0	0	25.11.2019
+SDIS-DDUGKY	10456	ASMACS	Khwaspuria	Plumber General Helper	31.10.2019	35	33	31	2	2	25.11.2019
+APSSDC	21006	NAC	Khwaspuria	Plumber General	4.11.2019	20	17	17	0	3	25.11.2019
+APSSDC	21127	NAC	Khwaspuria	Plumber General	15.11.2019	23	20	17	3	3	25.11.2019
+CSR-STT	5761	SDI-Vskpm	Mettl	Plumber General	8.8.2019	30	30	13	17	0	26.11.2019
+SDIS-OSDA	9916	ASMACS	Mettl	Plumber General	11.10.2019	24	24	21	3	0	26.11.2019
+SDIS-OSDA	1125	ASMACS	Mettl	Asst. Plumber CON 705	22.4.2019	24	24	24	0	0	28.11.2019
+CSR-RPL (HSIL)	410040	Dhanush	VET	Plumber General	27.3.2019	50	34	34	0	16	9.12.2019
+CSR-RPL (HSIL)	410042	Dhanush	VET	Plumber General	28.3.2019	58	37	37	0	21	9.12.2019
+CSR-RPL (HSIL)	431299	Dhanush	VET	Plumber General	27.3.2019	52	40	40	0	12	9.12.2019
+NSFDC	16735	e-Biz	VET	Plumber General	5.6.2019	30	30	29	1	0	24.12.2019
+NSFDC	22139	e-Biz	VET	Plumber General	18.6.2019	45	43	39	4	2	24.12.2019
+NSFDC	22158	e-Biz	V.Saas	Plumber General	17.6.2019	45	40	34	6	5	24.12.2019
+NSFDC	22117	e-Biz	CoCubes	Plumber General	17.6.2019	45	41	39	2	4	31.12.2019
+DDUGKY	429013	Clear Maze	Khwaspuria	Plumber General	10.4.2019	22	22	22	0	0	1.1.2020
+CSR-RPL (Watertec)	7159	Labournet	SM	Plumber General	22.7.2019	33	16	0	16	17	4.1.2020
+SDIS-DDUGKY	24941	KLS Pvt Ltd	VET	Plumber General-2	14.12.2019	26	20	19	1	6	14.1.2020
+APSSDC	14516	NAC	Khwaspuria	Plumber General	25.10.19	24	24	24	0	0	18.1.2020
+CSR-STT	18309	Quivan	VET	Plumber General	4.11.2019	21	20	16	4	1	21.1.2020
+CSR-STT	17164	SDI-Vskpm	VET	Plumber General	22.11.2019	30	18	18	0	12	22.1.2020
+DDUGKY	29086	NAC	V.Saas	Plumber General	6.1.2020	10	9	9	0	1	23.1.2020
+DDUGKY	22607	NAC	V.Saas	Plumber General	6.1.2020	20	13	13	0	7	23.1.2020
+PBSSD	29620	JIS	V.Saas	Plumber General	5.12.2019	35	33	32	1	2	23.1.2020
+PBSSD	29621	JIS	V.Saas	Plumber General	5.12.2019	30	30	28	2	0	23.1.2020
+DDUGKY	38387	NAC	CoCubes	Plumber General	16.1.2020	20	20	12	8	0	28.1.2020
+SDIS-OSDA	8479	ASMACS	CoCubes	Plumber General	1.10.2019	24	23	17	6	1	28.1.2020
+JSDM	26376	Data Pro	Mettl	Plumber General	9.1.2020	30	30	30	0	0	28.1.2020
+PBSSD	29163	Saltlake	VET	Plumber General	6.12.2019	30	30	26	4	0	30.1.2020
+Saudi Arabia Skill Harmission Project	52403	Soundlines HR	VET	Plumber General-2	28.12.2019	18	18	16	2	0	11.2.2020
+NSFDC	41041	Arambagh	V.Saas/Mettl	Plumber General	30.11.2019	31	27	27	0	4	12.2.2020
+NSFDC	21212	e-Biz	Mettl	Plumber General	29.5.2019	30	29	28	1	1	12.2.2020
+NSFDC	21497	e-Biz	Mettl	Plumber General	29.5.2019	30	29	25	4	1	12.2.2020
+Saudi Arabia Skill Harmission Project	52402	Soundlines HR	VET	Plumber General-2	22.11.2019	27	27	17	10	0	13.2.2020
+CSR-STT	22822	Don Bosco	Khwaspuria	Plumber General Assisstant	5.12.2019	18	17	16	1	1	17.2.2020
+SDIS-DDUGKY	21407	KLS Pvt Ltd	Mettl	Plumber General-2	9.12.2019	30	29	12	17	1	19.2.2020
+NSFDC	23060	e-Biz	CoCubes/V.saas	Plumber General	27.6.2019	30	29	29	0	1	20.2.2020
+JSDM	26377	Data Pro	CoCubes	Plumber General	10.1.2020	30	19	13	6	11	20.2.2020
+PBSSD	45286	Saltlake	Khwaspuria	Plumber General	1.5.2020	45	45	45	0	0	3.3.2020
+CSR-STT (Jail)	74221	SDI-Vskpm	V.Saas	Plumber General	18.2.2020	19	19	18	1	0	3.3.2020
+ASDM-PLSTP	30253	Tinsukhia	V.Saas	Plumber General	7.2.2020	30	29	28	1	1	28.5.2020
+ASDM-PLSTP	30254	Tinsukhia	V.Saas	Plumber General	8.2.2020	30	28	27	1	2	28.5.2020
+CSR-STT	428197	SDI-Vskpm	Mettl	Plumber General	29.7.2019	30	17	17	0	13	8.7.2020
+CSR-STT	5313	SDI-Vskpm	Mettl	Plumber General	12.7.2019	17	15	8	7	2	8.7.2020
+DDUGKY	73289	NAC	VET	Plumber General	18.3.2020	20	11	11	0	9	29.7.2020
+SDIS-DDUGKY	1297	ULCCS	Navriti	Plumber CON 705	8.8.2019	30	22	3	0	8	31.7.2020
+ASDM-PLSTP	56570	Valeur	V.Saas	Plumber General	5.2.2020	30	30	29	1	0	11.8.2020
+ASDM-PLSTP	56572	Valeur	V.Saas	Plumber General	6.2.2020	30	30	29	1	0	11.8.2020
+CSR-STT	71102	Don Bosco	V.Saas	Plumber General	10.2.2020	24	24	19	5	0	13.8.2020
+APSSDC	21128	NAC	SM	Plumber General	12.11.2019	25	24	15	9	1	19.8.2020
+JSDM	40329	SGRS	SM	Plumber General	4.1.2020	30	29	27	2	1	26.8.2020
+JSDM	75708	SGRS	SM	Plumber General	22.2.2020	27	27	24	3	0	26.8.2020
+SDIS-NULM	3994	Ultimate Skill center Sujalpur	V.Saas	Plumber CON 715	19.10.2019	25	10	0	10	15	23.9.2020
+SDIS-NULM	3995	Ultimate Skill center Sujalpur	V.Saas	Plumber CON 715	19.10.2019	25	4	0	4	21	23.9.2020
+SDIS-OSDA	1088	Quivan	CoCubes	Asst. Plumber CON 705	30.4.2019	24	17	16	1	7	23.9.2020
+SDIS-DDUGKY	1296	ULCCS	Navriti	Plumber CON 705	4.9.2019	30	25	12	13	5	23.9.2020
+CSR-STT	32535	Quivan	CoCubes	Plumber General	11.1.2020	19	19	15	4	0	12.10.2020
+DDUGKY	38228	ASMACS	CoCubes	Plumber General Helper	16.9.2020	35	8	5	3	27	24.10.2020
+DDUGKY	38706	ASMACS	CoCubes	Plumber General Helper	17.9.2020	35	17	12	5	18	26.10.2020
+SDIS-DDUGKY	37996	KLS Pvt Ltd	Mettl	Plumber General-2	8.2.2020	30	29	23	6	1	30.10.2020
+CSR-STT	202907	Upasana	Khwaspuria	Plumber General	2.12.2020	20	20	19	1	0	17.12.2020
+CSR-STT	196462	Upasana	Khwaspuria	Plumber General	1.12.2020	29	29	27	2	0	17.12.2020
+CSR-STT	202498	Upasana	Khwaspuria	Plumber General	1.12.2020	25	25	23	2	0	17.12.2020
+CSR-STT	200102	Upasana	Khwaspuria	Plumber General	12.11.2020	25	25	24	1	0	17.12.2020
+DDUGKY	419114	Pipal Tree	VET	Plumber General Assisstant	6.3.2019	35	33	33	0	2	18.12.2020
+DDUGKY	421719	Pipal Tree	VET	Plumber General Assisstant	28.2.2019	35	24	24	0	11	18.12.2020
+DDUGKY	429872	Pipal Tree	VET	Plumber General Assisstant	2.5.2019	35	28	27	1	8	18.12.2020
+DDUGKY	203438	KLS Pvt Ltd	Navriti	Plumber General-2	12.12.2020	30	28	26	2	2	28.12.2020
+DDUGKY	215082	KLS Pvt Ltd	Navriti	Plumber General-2	27.12.2020	30	29	27	2	1	4.1.2021
+CSR-STT	23917	ASMACS	SM	Plumber General	23.12.2019	30	30	27	3	0	4.1.2021
+NULM	182897	Ascensive Educare	VET	Plumber General	24.12.2020	20	19	19	0	1	4.1.2021
+NULM	182896	Ascensive Educare	VET	Plumber General	25.12.2020	25	23	23	0	2	4.1.2021
+NULM	163202	Ascensive Educare	VET	Plumber General	23.12.2020	26	26	26	0	0	4.1.2021
+NULM	91178	Seed Infotech	Mettl	Plumber General	28.10.2020	30	24	9	15	6	20.1.2021
+NULM	91179	Seed Infotech	Mettl	Plumber General	28.10.2020	30	14	5	9	16	20.1.2021
+NULM	91180	Seed Infotech	Mettl	Plumber General	29.10.2020	30	15	14	1	15	20.1.2021
+NULM	91181	Seed Infotech	Mettl	Plumber General	29.10.2020	20	5	5	0	15	20.1.2021
+DDUGKY	422752	NAC	Mettl	Plumber General	22.12.2019	23	23	23	0	0	3.2.2021
+NULM	100754	Wockhardt Skill development Centre	Khwaspuria	Plumber General	9.2.2021	30	30	28	2	0	1.3.2021
+NULM	100755	Wockhardt Skill development Centre	Khwaspuria	Plumber General	9.2.2021	30	30	28	2	0	1.3.2021
+NULM	100756	Wockhardt Skill development Centre	Khwaspuria	Plumber General	10.2.2021	30	30	29	1	0	1.3.2021
+NULM	116018	Wockhardt Skill development Centre	Khwaspuria	Plumber General	10.2.2021	30	30	29	1	0	1.3.2021
+APSSDC	61874	NAC	VET	Plumber General	28.1.2021	28	22	16	6	6	1.3.2021
+APSSDC	225839	NAC	VET	Plumber General	1.2.2021	20	20	19	1	0	1.3.2021
+DDUGKY	229100	KLS Pvt Ltd	Navriti	Plumber General-2	7.2.2021	30	30	29	1	0	2.3.2021
+NULM	21376	LCC Infotech	Khwaspuria	Plumber General	23.2.2019	30	30	28	2	0	8.3.2021
+CSR-RPL (HSIL)	241052	VET	VET	Plumber General	17.10.2020	26	26	26	0	0	11.3.2021
+CSR-RPL (HSIL)	241102	VET	VET	Plumber General	23.10.2020	30	30	30	0	0	11.3.2021
+CSR-RPL (HSIL)	241301	VET	VET	Plumber General	10.11.2020	26	26	26	0	0	11.3.2021
+CSR-RPL (HSIL)	241176	VET	VET	Plumber General	6.11.2020	17	17	17	0	0	11.3.2021
+NULM	211193	Adept Edusys	SM	Plumber General	26.2.2021	25	24	24	0	1	11.3.2021
+NULM	211194	Adept Edusys	SM	Plumber General	26.2.2021	25	23	23	0	2	11.3.2021
+NULM	211195	Adept Edusys	SM	Plumber General	27.2.2021	25	25	25	0	0	11.3.2021
+NULM	211196	Adept Edusys	SM	Plumber General	27.2.2021	25	25	25	0	0	11.3.2021
+DDUGKY	221807	Clear Maze	V.Saas	Plumber CON 705	13.3.2021	24	24	18	6	0	22.3.2021
+CSR-RPL (HSIL)	73532	Dhanush	Mettl	Plumber General	8.4.2019	36	36	33	3	0	22.3.2021
+CSR-RPL (HSIL)	73133	Dhanush	Mettl	Plumber General	7.4.2019	28	28	28	0	0	22.3.2021
+SJKVY (JSDM)	125473	SGRS	V.Saas	Plumber General	6.3.2021	22	15	15	0	7	3.4.2021
+CSR-RPL (HSIL)	247249	Ideal	VET	Plumber General	23.3.2021	40	40	40	0	0	6.4.2021
+CSR-RPL (HSIL)	248295	Ideal	VET	Plumber General	24.3.2021	40	39	39	0	1	6.4.2021
+CSR-RPL (HSIL)	248795	Ideal	VET	Plumber General	24.3.2021	19	19	19	0	0	6.4.2021
+CSR-RPL (HSIL)	251558	Ideal	V.Saas	Plumber General	27.3.2021	40	39	39	0	1	6.4.2021
+CSR-RPL (HSIL)	251600	Ideal	V.Saas	Plumber General	27.3.2021	10	10	10	0	0	6.4.2021
+CSR-RPL (HSIL)	254455	Ideal	V.Saas	Plumber General	1.4.2021	40	38	36	2	2	22.4.2021
+CSR-RPL (HSIL)	254512	Ideal	V.Saas	Plumber General	1.4.2021	11	11	11	0	0	27.4.2021
+CSR-RPL (Roca)	220742	Annai	CoCubes	Plumber General Assisstant	7.9.2020	20	20	17	3	0	26.4.2021
+CSR-RPL (Roca)	220745	Annai	CoCubes	Plumber General Assisstant	8.9.2020	20	20	17	3	0	26.4.2021
+CSR-RPL (Roca)	220758	Annai	CoCubes	Plumber General Assisstant	9.9.2020	20	20	14	6	0	26.4.2021
+CSR-RPL (Roca)	220796	Annai	CoCubes	Plumber General Assisstant	11.9.2020	20	20	16	4	0	26.4.2021
+CSR-RPL (Roca)	220863	Annai	CoCubes	Plumber General Assisstant	12.9.2020	20	20	14	6	0	26.4.2021
+CSR-RPL (Roca)	220867	Annai	CoCubes	Plumber General Assisstant	14.9.2020	20	20	16	4	0	26.4.2021
+CSR-RPL (Roca)	220870	Annai	CoCubes	Plumber General Assisstant	15.9.2020	20	20	16	4	0	26.4.2021
+CSR-RPL (Roca)	220872	Annai	CoCubes	Plumber General Assisstant	21.9.2020	25	25	11	14	0	26.4.2021
+CSR-RPL (Roca)	220873	Annai	CoCubes	Plumber General Assisstant	22.9.2020	25	25	13	12	0	26.4.2021
+CSR-RPL (Roca)	220874	Annai	CoCubes	Plumber General Assisstant	23.9.2020	25	25	13	12	0	26.4.2021
+CSR-RPL (Roca)	220877	Annai	CoCubes	Plumber General Assisstant	24.9.2020	25	25	11	14	0	26.4.2021
+CSR-RPL (Roca)	220878	Annai	CoCubes	Plumber General Assisstant	25.9.2020	13	13	6	7	0	26.4.2021
+CSR-RPL (Roca)	220709	Annai	CoCubes	Plumber General Assisstant	2.9.2020	20	20	17	3	0	27.4.2021
+CSR-RPL (Roca)	220717	Annai	CoCubes	Plumber General Assisstant	3.9.2020	20	20	14	6	0	27.4.2021
+CSR-RPL (Roca)	220726	Annai	CoCubes	Plumber General Assisstant	4.9.2020	20	18	14	4	2	27.4.2021
+CSR-RPL (Roca)	220735	Annai	CoCubes	Plumber General Assisstant	5.9.2020	20	19	14	5	1	27.4.2021
+CSR-RPL (Roca)	220153	Annai	CoCubes	Plumber General Assisstant	25.8.2020	20	20	18	2	0	6.5.2021
+CSR-RPL (Roca)	220497	Annai	CoCubes	Plumber General Assisstant	28.8.2020	20	16	13	3	4	6.5.2021
+CSR-RPL (Roca)	220528	Annai	CoCubes	Plumber General Assisstant	31.8.2020	20	18	9	9	2	6.5.2021
+CSR-RPL (Roca)	220527	Annai	CoCubes	Plumber General Assisstant	1.9.2020	20	20	19	1	0	6.5.2021
+CSR-RPL (HSIL)	262659	ISCTST	VET	Plumber General	26.3.2021	40	40	40	0	0	27.4.2021
+CSR-RPL (HSIL)	262782	ISCTST	VET	Plumber General	26.3.2021	10	10	10	0	0	27.4.2021
+CSR-RPL (HSIL)	262783	ISCTST	VET	Plumber General	27.3.2021	40	40	40	0	0	27.4.2021
+CSR-RPL (HSIL)	262784	ISCTST	VET	Plumber General	27.3.2021	10	10	10	0	0	27.4.2021
+NULM	246170	SWASTHYA SHIKSHA PAMVS SUNNI	VET	Plumber General	30.3.2021	31	31	31	0	0	28.4.2021
+NULM	252188	SWASTHYA SHIKSHA PAMVS SUNNI	VET	Plumber General	31.3.2021	30	30	30	0	0	28.4.2021
+CSR-RPL (HSIL)	261551	Labournet	Khwaspuria	Plumber General	31.3.2021	39	39	39	0	0	30.4.2021
+CSR-RPL (HSIL)	261513	Labournet	Khwaspuria	Plumber General	29.3.2021	30	30	30	0	0	30.4.2021
+CSR-RPL (HSIL)	261517	Labournet	Khwaspuria	Plumber General	29.3.2021	20	20	19	1	0	30.4.2021
+CSR-RPL (HSIL)	261523	Labournet	Khwaspuria	Plumber General	30.3.2021	30	29	28	1	1	30.4.2021
+CSR-RPL (HSIL)	261529	Labournet	Khwaspuria	Plumber General	31.3.2021	30	30	30	0	0	30.4.2021
+CSR-RPL (HSIL)	261532	Labournet	Khwaspuria	Plumber General	30.3.2021	37	37	36	1	0	30.4.2021
+CSR-RPL (HSIL)	261456	Labournet	Khwaspuria	Plumber General	28.3.2021	50	50	49	1	0	26.5.2021
+CSR-RPL (HSIL)	262512	Annai	Khwaspuria	Plumber General	28.3.2021	40	40	39	1	0	31.5.2021
+CSR-RPL (HSIL)	262552	Annai	Khwaspuria	Plumber General	28.3.2021	40	40	39	1	0	31.5.2021
+CSR-RPL (HSIL)	262553	Annai	Khwaspuria	Plumber General	28.3.2021	40	40	39	1	0	31.5.2021
+CSR-RPL (HSIL)	262554	Annai	Khwaspuria	Plumber General	28.3.2021	14	14	14	0	0	31.5.2021
+JJM-Bihar	265089		SM	Plumber General	25.3.2021	25	25	23	2	0	2.6.2021
+JJM-Bihar	265093		SM	Plumber General	25.3.2021	28	28	28	0	0	2.6.2021
+JJM-Bihar	265082		SM	Plumber General	27.3.2021	20	20	19	1	0	3.6.2021
+JJM-Bihar	265085		SM	Plumber General	26.3.2021	26	26	26	0	0	3.6.2021
+CSR-Roca (Reassessment)	263669	Annai	VET	Plumber General Assisstant	28.4.2021	35	35	35	0	0	3.6.2021
+CSR-Roca (Reassessment)	264262	Annai	VET	Plumber General Assisstant	3.5.2021	22	22	22	0	0	3.6.2021
+CSR-Roca (Reassessment)	264265	Annai	VET	Plumber General Assisstant	3.5.2021	21	21	21	0	0	3.6.2021
+CSR-Roca (Reassessment)	264452	Annai	VET	Plumber General Assisstant	13.5.2021	19	17	17	0	2	3.6.2021
+JJM-Bihar	265090		VET	Plumber General	24.3.2021	26	26	26	0	0	5.6.2021
+JJM-Bihar	265088		VET	Plumber General	24.3.2021	19	19	19	0	0	5.6.2021
+JJM-Bihar	264777		VET	Plumber General	24.3.2021	30	30	30	0	0	5.6.2021
+JJM-Bihar	265087		VET	Plumber General	24.3.2021	27	27	27	0	0	5.6.2021
+JJM-Bihar	265083		Khwaspuria	Plumber General	26.3.2021	28	28	26	2	0	5.6.2021
+JJM-Bihar	265095		Khwaspuria	Plumber General	24.3.2021	29	29	22	7	0	5.6.2021
+DDUGKY	207419	Frostees	Khwaspuria	Plumber General	13.12.2020	25	20	19	1	5	7.6.2021
+DDUGKY	71951	ASMACS	Mettl	Plumber General Helper	14.12.2020	35	25	1	24	10	7.6.2021
+DDUGKY	189756	NAC	VET	Plumber General	8.2.2021	25	19	18	1	6	7.6.2021
+PBSSD-RPL	91969	JIS	VET	Plumber General	6.3.2021	15	15	11	4	0	7.6.2021
+CSR-Roca (Reassessment)	265802	Annai	VET	Plumber General Assisstant	27.4.2021	30	30	30	0	0	8.6.2021
+JJM-Bihar	265092		V.Saas	Plumber General	24.3.2021	24	24	24	0	0	8.6.2021
+JJM-Bihar	265094		V.Saas	Plumber General	25.3.2021	27	27	27	0	0	8.6.2021
+JJM-Bihar	265091		V.Saas	Plumber General	24.3.2021	28	28	28	0	0	10.6.2021
+JJM-Bihar	265080		Mettl	Plumber General	28.3.2021	27	27	18	9	0	14.6.2021
+JJM-Bihar	265081		Mettl	Plumber General	28.3.2021	30	30	22	8	0	14.6.2021
+JJM-Bihar	265084		Mettl	Plumber General	25.3.2021	23	23	4	19	0	14.6.2021
+JJM-Bihar	265086		Mettl	Plumber General	27.3.2021	26	26	17	9	0	14.6.2021
+CSR-RPL (HSIL)	243130	VET	VET	Plumber General	18.11.2020	22	22	22	0	0	10.6.2021
+CSR-RPL (HSIL)	245440	VET	VET	Plumber General	26.11.2020	21	21	17	4	0	10.6.2021
+CSR-RPL (HSIL)	260329	VET	VET	Plumber General	27.10.2020	31	31	31	0	0	10.6.2021
+CSR-RPL (HSIL)	262299	VET	VET	Plumber General	29.12.2020	31	31	31	0	0	10.6.2021
+CSR-RPL (HSIL)	262298	VET	VET	Plumber General	29.12.2020	40	40	40	0	0	10.6.2021
+CSR-RPL (HSIL)	262296	VET	VET	Plumber General	29.12.2020	40	40	40	0	0	10.6.2021
+CSR-RPL (HSIL)	262274	VET	VET	Plumber General	29.12.2020	40	40	40	0	0	10.6.2021
+CSR-RPL (HSIL)	262270	VET	VET	Plumber General	29.12.2020	40	40	40	0	0	10.6.2021
+CSR-RPL (HSIL)	261985	VET	VET	Plumber General	28.10.2020	28	28	28	0	0	10.6.2021
+CSR-RPL (HSIL)	263438	VET	VET	Plumber General	6.1.2021	23	23	23	0	0	14.6.2021
+CSR-RPL (HSIL)	263437	VET	VET	Plumber General	6.1.2021	30	30	30	0	0	14.6.2021
+CSR-RPL (HSIL)	263436	VET	VET	Plumber General	6.1.2021	30	30	30	0	0	14.6.2021
+CSR-RPL (HSIL)	262498	VET	VET	Plumber General	12.1.2021	40	40	40	0	0	14.6.2021
+CSR-RPL (HSIL)	262502	VET	VET	Plumber General	12.1.2021	40	40	40	0	0	14.6.2021
+CSR-RPL (HSIL)	262509	VET	VET	Plumber General	12.1.2021	40	40	40	0	0	14.6.2021
+CSR-RPL (HSIL)	262521	VET	VET	Plumber General	12.1.2021	40	40	40	0	0	14.6.2021
+CSR-RPL (HSIL)	262534	VET	VET	Plumber General	12.1.2021	40	40	40	0	0	14.6.2021
+CSR-RPL (HSIL)	262537	VET	VET	Plumber General	12.1.2021	40	40	40	0	0	14.6.2021
+CSR-RPL (HSIL)	262556	VET	VET	Plumber General	12.1.2021	28	28	28	0	0	14.6.2021
+CSR-RPL (HSIL)	262605	VET	VET	Plumber General	28.1.2021	40	40	40	0	0	14.6.2021
+CSR-RPL (HSIL)	262608	VET	VET	Plumber General	28.1.2021	30	30	30	0	0	14.6.2021
+CSR-RPL (HSIL)	263156	VET	VET	Plumber General	2.12.2020	28	28	28	0	0	14.6.2021
+CSR-RPL (HSIL)	263436	VET	VET	Plumber General	16.12.2020	32	32	32	0	0	15.6.2021
+CSR-RPL (HSIL)	263437	VET	VET	Plumber General	16.12.2020	30	30	30	0	0	15.6.2021
+CSR-RPL (HSIL)	263438	VET	VET	Plumber General	16.12.2020	30	30	30	0	0	15.6.2021
+CSR-RPL (HSIL)	265015	VET	VET	Plumber General	22.12.2020	34	34	34	0	0	15.6.2021
+CSR-RPL (HSIL)	265030	VET	VET	Plumber General	27.1.2021	40	40	40	0	0	15.6.2021
+CSR-RPL (HSIL)	265031	VET	VET	Plumber General	27.1.2021	23	23	23	0	0	15.6.2021
+CSR-RPL (HSIL)	265074	VET	VET	Plumber General	9.2.2021	40	40	40	0	0	15.6.2021
+CSR-RPL (HSIL)	265075	VET	VET	Plumber General	9.2.2021	40	40	40	0	0	15.6.2021
+CSR-RPL (HSIL)	265076	VET	VET	Plumber General	9.2.2021	16	16	16	0	0	15.6.2021
+CSR-RPL (HSIL)	265121	VET	VET	Plumber General	15.2.2021	40	40	40	0	0	15.6.2021
+CSR-RPL (HSIL)	265122	VET	VET	Plumber General	15.2.2021	29	29	29	0	0	15.6.2021
+CSR-STT	227530	CRISP	SM	Plumber General	8.4.2021	33	28	28	0	5	28.6.2021
+CSR-RPL (Apollo)	262435	Annai	SM	Plumber General	31.3.2021	40	38	37	1	2	29.6.2021
+CSR-RPL (Apollo)	262842	Annai	SM	Plumber General	31.3.2021	5	4	4	0	1	29.6.2021
+CSR-RPL (HSIL)	261534	Labournet	VET	Plumber General	30.3.2021	30	30	30	0	0	30.6.2021
+CSR-RPL (HSIL)	261536	Labournet	VET	Plumber General	31.3.2021	30	30	28	2	0	30.6.2021
+DDUGKY	31407	NAC	Khwaspuria	Plumber General	27.12.2019	10	10	10	0	0	1.7.2021
+CSR-RPL (Apollo)	264765	Annai	VET	Plumber General	11.4.2021	40	40	40	0	0	1.7.2021
+CSR-RPL (Apollo)	264767	Annai	VET	Plumber General	11.4.2021	39	39	39	0	0	1.7.2021
+DDUGKY	31414	NAC	Khwaspuria	Plumber General	27.12.2019	14	14	12	2	0	2.7.2021
+CSR-RPL (Roca)	268325	Ideal	VET	Plumber General	31.12.2019	40	30	30	0	0	14.7.2021
+CSR-RPL (Roca)	268330	Ideal	VET	Plumber General	31.12.2019	10	8	8	0	0	14.7.2021
+CSR-RPL (Roca)	219232	Ideal	V.Saas	Plumber General	10.12.2019	50	38	38	0	0	14.7.2021
+DDUGKY	23852	NAC	Khwaspuria	Plumber General	28.12.2019	25	25	25	0	0	20.7.2021
+CSR-RPL (Apollo)	264814	Annai	Khwaspuria	Plumber General	18.4.2021	40	39	39	1	0	21.7.2021
+CSR-RPL (Apollo)	263694	Annai	Khwaspuria	Plumber General	11.4.2021	40	39	39	1	0	21.7.2021
+CSR-RPL (Apollo)	263693	Annai	Khwaspuria	Plumber General	11.4.2021	40	38	38	2	0	21.7.2021
+CSR-RPL (Apollo)	264816	Annai	Khwaspuria	Plumber General	18.4.2021	40	39	37	2	1	21.7.2021
+CSR-RPL (Apollo)	264835	Annai	Khwaspuria	Plumber General	18.4.2021	40	39	39	1	0	21.7.2021
+CSR-RPL (Apollo)	263695	Annai	Khwaspuria	Plumber General	11.4.2021	10	10	10	0	0	21.7.2021
+CSR-RPL (Apollo)	264839	Annai	Khwaspuria	Plumber General	18.4.2021	5	5	4	1	0	21.7.2021
+CSR-RPL (HSIL)	270847	NAC	VET	Plumber General	23.7.2021	30	30	30	0	0	4.8.2021
+CSR-RPL (HSIL)	270851	NAC	VET	Plumber General	24.7.2021	30	30	30	0	0	4.8.2021
+CSR-STT	260409	SDI-Vskpm	Khwaspuria	Plumber General	16.4.2021	26	25	21	4	1	7.8.2021
+DDUGKY	232092	NAC	Navriti	Plumber General	3.8.2021	20	19	16	3	1	21.8.2021
+JJM-Assam	241629	Ajitakash	Khwaspuria	Plumber General	16.3.2021	29	26	25	1	3	21.8.2021
+JJM-Assam	241630	Ajitakash	V.Saas	Plumber General	18.3.2021	26	26	25	1	0	21.8.2021
+JJM-Assam	241631	Ajitakash	Khwaspuria	Plumber General	19.3.2021	29	20	18	2	9	21.8.2021
+JJM-Assam	241632	Ajitakash	V.Saas	Plumber General	22.3.2021	30	30	30	0	0	21.8.2021
+JJM-Assam	241634	Ajitakash	V.Saas	Plumber General	17.3.2021	29	21	21	0	8	21.8.2021
+JJM-Assam	241635	Ajitakash	Khwaspuria	Plumber General	20.3.2021	20	11	11	0	9	21.8.2021
+JJM-Assam	241638	Ajitakash	V.Saas	Plumber General	19.3.2021	29	29	29	0	0	21.8.2021
+JJM-Assam	241639	Ajitakash	Khwaspuria	Plumber General	18.3.2021	27	21	20	1	6	21.8.2021
+JJM-Assam	241640	Ajitakash	V.Saas	Plumber General	16.3.2021	28	24	20	4	4	21.8.2021
+JJM-Assam	241641	Ajitakash	Khwaspuria	Plumber General	17.3.2021	28	25	24	1	3	21.8.2021
+JJM-Assam	241642	Ajitakash	Khwaspuria	Plumber General	22.3.2021	20	20	16	4	0	21.8.2021
+JJM-Assam	241643	Ajitakash	V.Saas	Plumber General	20.3.2021	29	29	27	2	0	21.8.2021
+DDUGKY	268966	NAC	Navriti	Plumber General	5.8.2021	19	18	16	2	1	25.8.2021
+DDUGKY	257421	NAC	Navriti	Plumber General	4.8.2021	19	19	17	2	0	25.8.2021
+CSR-RPL (HSIL)	271730	NAC	V.Saas	Plumber General	23.7.2021	17	17	15	2	0	25.8.2021
+CSR-RPL (HSIL)	271847	NAC	V.Saas	Plumber General	24.7.2021	19	19	16	3	0	25.8.2021
+CSR-RPL (HSIL)	271723	NAC	V.Saas	Plumber General	15.7.2021	20	20	17	3	0	25.8.2021
+NULM	211190	Ascensive Educare	Mettl	Plumber General	18.3.2021	25	25	22	3	0	3.9.2021
+NULM	211191	Ascensive Educare	Mettl	Plumber General	18.3.2021	25	24	20	4	1	3.9.2021
+NULM	211192	Ascensive Educare	Mettl	Plumber General	17.3.2021	25	25	25	0	0	28.8.2021
+DDUGKY	109832	ASMACS	Mettl	Plumber General Helper	29.4.2021	35	31	13	18	4	3.9.2021
+DDUGKY	220651	ASMACS	Mettl	Plumber General Helper	30.4.2021	35	35	14	21	0	3.9.2021
+CSR-STT	180013	SAMT	SM	Plumber General	4.10.2020	20	14	10	4	6	5.9.2021
+DDUGKY	270652	KLS Pvt Ltd	V.Saas	Plumber General-2	6.8.2021	30	30	28	2	0	9.9.2021
+CSR-RPL (HSIL)	272034	NAC	Khwaspuria	Plumber General	23.7.2021	25	23	22	1	2	16.9.2021
+CSR-RPL (HSIL)	272137	NAC	Khwaspuria	Plumber General	24.7.2021	25	22	21	1	3	16.9.2021
+CSR-RPL (HSIL)	271869	NAC	SM	Plumber General	23.7.2021	20	20	17	3	0	16.9.2021
+CSR-RPL (HSIL)	271871	NAC	SM	Plumber General	24.7.2021	21	21	15	6	0	16.9.2021
+CSR-RPL (HSIL)	272153	NAC	SM	Plumber General	23.7.2021	28	28	23	5	0	16.9.2021
+CSR-RPL (HSIL)	274323	NAC	VET	Plumber General	25.8.2021	30	28	26	2	2	16.9.2021
+CSR-RPL (Apollo)	269127	Annai	Navriti	Plumber General	25.7.2021	25	25	22	3	0	17.9.2021
+CSR-RPL (Apollo)	269892	Annai	Navriti	Plumber General	25.7.2021	35	35	32	3	0	17.9.2021
+CSR-RPL (Apollo)	278584	GnG Skills	VET	Plumber General	12.9.2021	40	40	37	3	0	17.9.2021
+CSR-RPL (Roca)	220085	Annai	CoCubes	Plumber General Assisstant	25.8.2020	20	19	18	1	1	18.9.2021
+CSR-RPL (Roca)	219795	Annai	CoCubes	Plumber General Assisstant	19.8.2020	20	19	19	0	1	18.9.2021
+CSR-RPL (Roca)	219940	Annai	CoCubes	Plumber General Assisstant	19.8.2020	20	20	20	0	0	18.9.2021
+CSR-STT	431335	NAC	Navriti	Plumber General	28.5.2019	15	14	14	0	1	24.9.2021
+NULM	263663	SWASTHYA SHIKSHA PAMVS SUNNI	Navriti	Plumber General	17.7.2021	32	30	28	2	2	27.9.2021
+CSR-RPL (Roca)	223932	Annai	CoCubes	Plumber General Assisstant	28.8.2020	20	18	15	3	2	29.9.2021
+CSR-RPL (KBL)	280063	NAC	Khwaspuria	Plumber General	18.9.2021	25	12	11	1	13	29.9.2021
+CSR-RPL (KBL)	280012	NAC	Khwaspuria	Plumber General	16.9.2021	30	30	27	3	0	29.9.2021
+CSR-RPL (KBL)	280023	NAC	Khwaspuria	Plumber General	16.9.2021	12	12	11	1	0	29.9.2021
+CSR-RPL (KBL)	281213	Annai	SM	Plumber General	22.9.2021	26	25	18	7	1	29.9.2021
+CSR-RPL (KBL)	279245	Labournet	VET	Plumber General	15.9.2021	30	27	24	3	3	30.9.2021
+CSR-RPL (KBL)	279250	Labournet	VET	Plumber General	17.9.2021	31	25	23	2	6	30.9.2021
+CSR-RPL (KBL)	281149	Labournet	VET	Plumber General	22.9.2021	40	39	37	2	1	30.9.2021
+CSR-RPL (KBL)	280665	Prabhodita	Navriti	Plumber General	22.9.2021	40	24	24	0	16	4.10.2021
+CSR-RPL (KBL)	280689	Prabhodita	Navriti	Plumber General	24.9.2021	40	26	22	4	14	4.10.2021
+CSR-RPL (KBL)	281210	Annai	Navriti	Plumber General	22.9.2021	25	25	25	0	0	4.10.2021
+CSR-RPL (KBL)	281599	NAC	Navriti	Plumber General	23.9.2021	31	30	25	5	1	4.10.2021
+CSR-RPL (KBL)	281738	NAC	Navriti	Plumber General	25.9.2021	25	15	13	2	10	4.10.2021
+CSR-RPL (KBL)	282355	Prabhodita	Navriti	Plumber General	26.9.2021	40	40	37	3	0	4.10.2021
+CSR-RPL (KBL)	281714	NAC	VET	Plumber General	25.9.2021	25	21	21	0	4	5.10.2021
+CSR-RPL (KBL)	282494	Ideal	VET	Plumber General	26.9.2021	22	20	18	2	2	5.10.2021
+CSR-RPL (KBL)	282487	Ideal	VET	Plumber General	26.9.2021	25	23	22	1	2	5.10.2021
+CSR-RPL (KBL)	281618	NAC	V.Saas	Plumber General	23.9.2021	33	31	29	2	2	5.10.2021
+CSR-RPL (KBL)	279231	Saltlake	V.Saas	Plumber General	18.9.2021	40	26	26	0	14	5.10.2021
+CSR-RPL (KBL)	281977	Ideal	V.Saas	Plumber General	24.9.2021	25	23	22	1	2	5.10.2021
+CSR-RPL (KBL)	281972	Ideal	V.Saas	Plumber General	24.9.2021	25	22	22	0	3	5.10.2021
+CSR-RPL (KBL)	280533	Saltlake	V.Saas	Plumber General	20.9.2021	35	35	34	1	0	7.10.2021
+CSR-RPL (KBL)	280064	NAC	V.Saas	Plumber General	18.9.2021	25	17	16	1	8	7.10.2021
+CSR-RPL (KBL)	281467	Labournet	Khwaspuria	Plumber General	23.9.2021	40	37	37	0	3	7.10.2021
+CSR-RPL (KBL)	281512	Labournet	Khwaspuria	Plumber General	23.9.2021	10	9	8	1	1	7.10.2021
+CSR-STT	262705	SDI-Vskpm	SM	Plumber General	24.9.2021	28	24	23	1	4	7.10.2021
+CSR-STT	273650	SDI-Vskpm	SM	Plumber General	25.9.2021	18	13	5	8	5	7.10.2021
+CSR-STT	221650	Ambica Siksha Samaj	V.Saas	Plumber General-2	18.9.2021	30	30	29	1	0	12.10.2021
+CSR-STT	221653	Ambica Siksha Samaj	V.Saas	Plumber General-2	19.9.2021	30	29	29	0	1	12.10.2021
+CSR-STT	233773	Ambica Siksha Samaj	V.Saas	Plumber General-2	20.9.2021	30	30	29	1	0	12.10.2021
+CSR-RPL (KBL)	287561	Ideal	VET	Plumber General	12.10.2021	25	23	23	0	2	19.10.2021
+CSR-RPL (KBL)	287570	Ideal	VET	Plumber General	12.10.2021	22	21	21	0	1	19.10.2021
+CSR-RPL (KBL)	286753	Labournet	VET	Plumber General	07-10-2021	25	20	20	0	5	26-10-2021
+CSR-RPL (KBL)	287796	Labournet	VET	Plumber General	13-10-2021	25	24	21	3	1	26-10-2021
+CSR-RPL (KBL)	289141	Annai Education	VET	Plumber General	19-10-2021	28	27	27	0	1	26-10-2021
+CSR-RPL (KBL)	289142	Annai Education	VET	Plumber General	19-10-2021	28	26	25	1	2	26-10-2021
+CSR-RPL (KBL)	289332	Annai Education	VET	Plumber General	21-10-2021	40	36	34	2	4	26-10-2021
+CSR-RPL (KBL)	288876	Labournet	Navriti	Plumber General	19-10-2021	25	25	24	1	0	26-10-2021
+CSR-RPL (KBL)	288875	Labournet	Navriti	Plumber General	19-10-2021	25	23	19	4	2	26-10-2021
+CSR-RPL (KBL)	288877	Labournet	Navriti	Plumber General	21-10-2021	25	22	19	3	3	26-10-2021
+CSR-RPL (KBL)	288879	Labournet	Navriti	Plumber General	21-10-2021	25	23	23	0	2	26-10-2021
+CSR-RPL (KBL)	287286	Annai Education	SM	Plumber General	19-10-2021	33	28	26	2	5	26-10-2021
+CSR-RPL (KBL)	287233	Annai Education	SM	Plumber General	19-10-2021	33	30	29	1	3	26-10-2021
+CSR-RPL (KBL)	286775	Labournet	SM	Plumber General	09-10-2021	25	22	20	2	3	26-10-2021
+CSR-RPL (KBL)	287804	Labournet	SM	Plumber General	13-10-2021	25	18	15	3	7	26-10-2021
+CSR-RPL (KBL)	286903	Labournet	SM	Plumber General	11-10-2021	25	20	18	2	5	26-10-2021
+CSR-RPL (KBL)	289333	Annai Education	SM	Plumber General	21-10-2021	40	27	23	4	13	26-10-2021
+CSR-RPL (KBL)	286900	DCVS	V.Saas	Plumber General	20-09-2021	19	19	18	1	0	26-10-2021
+CSR-RPL (KBL)	287680	DCVS	V.Saas	Plumber General	12-10-2021	32	30	29	1	2	26-10-2021
+CSR-RPL (KBL)	287975	DCVS	V.Saas	Plumber General	12-10-2021	30	28	27	1	2	26-10-2021
+CSR-RPL (KBL)	286913	Labournet	Khwaspuria	Plumber General	11-10-2021	25	22	19	3	3	27-10-2021
+CSR-RPL (KBL)	286735	Labournet	Khwaspuria	Plumber General	07-10-2021	25	20	18	2	5	27-10-2021
+CSR-RPL (KBL)	286776	Labournet	Khwaspuria	Plumber General	09-10-2021	25	23	20	3	2	27-10-2021
+CSR-RPL (KBL)	282318	Labournet	Khwaspuria	Plumber General	25-10-2021	25	24	23	1	1	27-10-2021
+CSR-RPL (KBL)	282436	Ideal	Khwaspuria	Plumber General	26-10-2021	25	23	21	2	2	27-10-2021
+CSR-RPL (KBL)	282427	Ideal	Khwaspuria	Plumber General	26-10-2021	25	23	22	1	2	27-10-2021
+CSR-RPL (KBL)	285975	SLIEM	Mettl	Plumber General	08-10-2021	36	35	25	10	1	27-10-2021
+CSR-RPL (KBL)	285962	SLIEM	Mettl	Plumber General	05-10-2021	36	36	35	1	0	27-10-2021
+CSR-RPL (KBL)	286666	Prabhodita	V.Saas	Plumber General	07-10-2021	30	24	21	3	6	27-10-2021
+CSR-RPL (KBL)	282635	Labournet	V.Saas	Plumber General	25-09-2021	25	25	22	3	0	27-10-2021
+CSR-RPL (KBL)	279228	Saltlake	V.Saas	Plumber General	16-09-2021	38	29	29	0	9	27-10-2021
+CSR-RPL (KBL)	282118	Labournet	V.Saas	Plumber General	26-09-2021	25	25	25	0	0	27-10-2021
+CSR-RPL (KBL)	285970	Prabhodita	V.Saas	Plumber General	05-10-2021	35	32	29	3	3	27-10-2021
+CSR-RPL (KBL)	282513	Labournet	V.Saas	Plumber General	27-09-2021	25	25	23	2	0	27-10-2021
+CSR-RPL (KBL)	282530	Labournet	V.Saas	Plumber General	27-09-2021	23	23	23	0	0	27-10-2021
+CSR-RPL (KBL)	282645	Labournet	V.Saas	Plumber General	25-09-2021	20	20	19	1	0	27-10-2021
+CSR-RPL (KBL)	287981	DCVS	Khwaspuria	Plumber General	14.10.2021	34	30	28	2	4	27-10-2021
+CSR-RPL (KBL)	286027	DCVS	Navriti	Plumber General	20.9.2021	40	31	27	4	9	5.11.2021
+CSR-RPL (KBL)	287024	DCVS	VET	Plumber General	20.9.2021	30	26	23	3	4	5.11.2021
+CSR-RPL (KBL)	282900	Indeva	VET	Plumber General	27.10.2021	40	37	37	0	3	11.11.2021
+State Govt-Meghalaya (MUDA)	261105	Saltlake	Explore D	Plumber General	23.9.2021	30	29	27	2	1	11.11.2021
+State Govt-Meghalaya (MUDA)	262670	Saltlake	Explore D	Plumber General	30.9.2021	30	30	28	2	0	11.11.2021
+HPKVN	269623	Govt ITI-Bilaspur	VET	Plumber General	8.10.2021	20	20	17	3	0	17.11.2021
+CSR-RPL (Apollo)	287969	Annai Education	Mettl	Plumber General	10.10.2021	34	20	14	6	14	17.11.2021
+CSR-RPL (Apollo)	287964	Annai Education	Navriti	Plumber General	10.10.2021	35	22	20	2	13	17.11.2021
+CSR-RPL (KBL)	289335	Annai Education	Mettl	Plumber General	21.10.2021	40	39	38	1	1	17.11.2021
+CSR-RPL (KBL)	289336	Annai Education	Mettl	Plumber General	21.10.2021	39	35	33	2	4	17.11.2021
+State Govt-Meghalaya (MUDA)	257459	Saltlake	Explore D	Plumber General	29.9.2021	30	30	26	4	0	18.11.2021
+NULM	240880	NRDS Management	SM	Plumber General	4.10.2021	30	28	25	3	2	18.11.2021
+NULM	240881	NRDS Management	SM	Plumber General	5.10.2021	30	29	25	4	1	18.11.2021
+CSR-RPL (Apollo)	268269	Annai Education	Khwaspuria	Plumber General	14.8.2021	25	24	23	1	1	24.11.2021
+CSR-RPL (KBL)	287289	Annai Education	Mettl	Plumber General	19.10.2021	34	32	32	0	2	24.11.2021
+CSR-RPL (KBL)	282366	Prabhodita	Navriti	Plumber General	31.10.2021	40	40	36	4	0	24.11.2021
+CSR-RPL (KBL)	282376	Prabhodita	Navriti	Plumber General	30.10.2021	36	35	35	0	1	24.11.2021
+CSR-RPL (KBL)	2001555	Veronics	Mettl	Plumber General	26.10.2021	40	38	30	8	2	26.11.2021
+CSR-RPL (KBL)	2011210	Annai Education	Khwaspuria	Plumber General	18.11.2021	25	25	23	2	0	30.11.2021
+CSR-RPL (KBL)	2011206	Annai Education	Khwaspuria	Plumber General	18.11.2021	25	25	23	2	0	30.11.2021
+CSR-RPL (KBL)	2009438	Ideal Impression	Khwaspuria	Plumber General	13.11.2021	24	22	19	3	2	30.11.2021
+CSR-RPL (KBL)	2009408	Ideal Impression	Khwaspuria	Plumber General	13.11.2021	25	24	23	1	1	30.11.2021
+CSR-RPL (KBL)	290335	Ideal Impression	Khwaspuria	Plumber General	23.10.2021	25	25	24	1	0	30.11.2021
+CSR-RPL (KBL)	290323	Ideal Impression	Khwaspuria	Plumber General	23.10.2021	25	25	23	2	0	30.11.2021
+CSR-RPL (KBL)	290244	Prabhodita	Khwaspuria	Plumber General	23.10.2021	40	30	28	2	10	30.11.2021
+JJM-Assam	209737	Valeur	Explore D	Plumber General	05.3.2021	30	21	21	0	9	30.11.2021
+JJM-Assam	210103	Valeur	Explore D	Plumber General	05.3.2021	30	30	28	2	0	30.11.2021
+JJM-Assam	212832	Valeur	Explore D	Plumber General	09.03.2021	30	30	27	3	0	30.11.2021
+JJM-Assam	213681	Valeur	Explore D	Plumber General	08.03.2021	30	30	30	0	0	30.11.2021
+JJM-Assam	213693	Valeur	Explore D	Plumber General	08.03.2021	30	24	23	1	6	30.11.2021
+JJM-Assam	218761	Valeur	Explore D	Plumber General	11.03.2021	30	30	27	3	0	30.11.2021
+JJM-Assam	219825	Valeur	Explore D	Plumber General	06.03.2021	30	13	12	1	17	30.11.2021
+JJM-Assam	221031	Valeur	Explore D	Plumber General	12.03.2021	29	29	26	3	0	30.11.2021
+JJM-Assam	223344	Valeur	Explore D	Plumber General	09.03.2021	30	27	27	0	3	30.11.2021
+CSR-RPL (KBL)	2008272	Annai Education	Navriti	Plumber General	09.11.2021	35	34	31	3	1	1.12.2021
+CSR-RPL (KBL)	287858	STOP NGO	Navriti	Plumber General	9.10.2021	40	35	33	2	0	1.12.2021
+CSR-RPL (KBL)	2001729	Prabhodita	Navriti	Plumber General	28.10.2021	40	33	31	2	7	1.12.2021
+CSR-RPL (KBL)	2008271	Labournet	Navriti	Plumber General	12.11.2021	25	24	20	4	1	1.12.2021
+CSR-RPL (KBL)	2008769	Annai Education	Navriti	Plumber General	11.11.2021	35	34	31	3	1	1.12.2021
+CSR-RPL (KBL)	2008781	Annai Education	Navriti	Plumber General	11.11.2021	23	22	22	0	1	1.12.2021
+CSR-RPL (KBL)	2009642	Labournet	Navriti	Plumber General	17.11.2021	25	18	17	1	7	1.12.2021
+CSR-RPL (KBL)	2009809	Annai Education	Navriti	Plumber General	14.11.2021	30	11	10	1	19	1.12.2021
+CSR-RPL (KBL)	2009843	Annai Education	Navriti	Plumber General	14.11.2021	30	15	14	1	15	1.12.2021
+CSR-RPL (KBL)	2010646	Annai Education	Navriti	Plumber General	18.11.2021	30	27	25	2	3	1.12.2021
+CSR-RPL (KBL)	2010716	NAC 	Navriti	Plumber General	18.11.2021	25	22	21	1	3	1.12.2021
+CSR-RPL (KBL)	2011143	Indeva	Navriti	Plumber General	24.11.2021	40	38	34	4	2	1.12.2021
+CSR-RPL (KBL)	2011212	Annai Education	Navriti	Plumber General	18.11.2021	40	25	23	2	15	1.12.2021
+CSR-RPL (KBL)	2009633	Ideal Impression	Navriti	Plumber General	16.11.2021	25	24	22	2	1	1.12.2021
+CSR-RPL (KBL)	2009704	Ideal Impression	Navriti	Plumber General	18.11.2021	25	20	19	1	5	1.12.2021
+CSR-RPL (KBL)	2011836	Saltlake	Navriti	Plumber General	23.11.2021	40	40	36	4	0	1.12.2021
+CSR-RPL (KBL)	2012544	NAC 	Navriti	Plumber General	25.11.2021	25	22	21	1	3	1.12.2021
+CSR-RPL (KBL)	2012551	NAC	Navriti	Plumber General	24.11.2021	25	22	20	2	3	1.12.2021
+CSR-RPL (KBL)	2010648	Annai Education	Explore D	Plumber General	18.11.2021	29	29	27	2	0	1.12.2021
+CSR-RPL (KBL)	2015136	Sanskar	SM	Plumber General	05.10.2021	30	30	28	2	0	2.12.2021
+CSR-RPL (KBL)	2015143	sanskar	SM	Plumber General	05.10.2021	23	23	22	1	0	2.12.2021
+CSR-RPL (KBL)	290724	Annai Education	SM	Plumber General	23.10.2021	40	27	25	2	13	2.12.2021
+CSR-RPL (KBL)	290733	Annai Education	SM	Plumber General	23.10.2021	30	30	28	2	0	2.12.2021
+CSR-RPL (KBL)	291129	Labournet	SM	Plumber General	29.10.2021	25	19	15	4	6	2.12.2021
+CSR-RPL (KBL)	2013326	Labournet	SM	Plumber General	26.11.2021	25	19	15	4	6	2.12.2021
+CSR-RPL (KBL)	2003118	Annai Education	SM	Plumber General	27.10.2021	30	28	26	2	2	2.12.2021
+CSR-RPL (KBL)	2008274	Annai Education	SM	Plumber General	9.11.2021	30	27	23	4	3	2.12.2021
+CSR-RPL (KBL)	2008775	Annai Education	SM	Plumber General	11.11.2021	35	34	31	3	1	2.12.2021
+CSR-RPL (KBL)	2008778	Annai Education	SM	Plumber General	11.11.2021	35	34	29	5	1	2.12.2021
+CSR-RPL (KBL)	2009418	Annai Education	SM	Plumber General	13.11.2021	30	29	24	5	1	2.12.2021
+CSR-RPL (KBL)	2009419	Annai Education	SM	Plumber General	14.11.2021	30	30	26	4	0	2.12.2021
+CSR-RPL (KBL)	2009811	Annai Education	SM	Plumber General	14.11.2021	30	13	10	3	17	2.12.2021
+CSR-RPL (KBL)	2010644	Annai Education	SM	Plumber General	18.11.2021	30	30	26	4	0	2.12.2021
+CSR-RPL (KBL)	2012660	Annai Education	SM	Plumber General	23.11.2021	40	40	36	4	0	2.12.2021
+CSR-RPL (KBL)	2012661	Annai Education	SM	Plumber General	23.11.2021	37	37	33	4	0	2.12.2021
+NULM	271128	GKITR	VET	Plumber General	7.10.2021	30	30	29	1	0	4.12.2021
+NULM	263004	GKITR	VET	Plumber General	8.10.2021	30	30	29	1	0	4.12.2021
+CSR-STT	2001422	Career Point	VET	Plumber General	24.11.2021	30	30	29	1	0	4.12.2021
+CSR-STT	2001423	Career Point	VET	Plumber General	25.11.2021	30	30	29	1	0	4.12.2021
+CSR-RPL (KBL)	2008238	Prabhodita	V.Saas	Plumber General	14.11.2021	40	35	35	0	5	6.12.2021
+CSR-RPL (KBL)	2009366	Prabhodita	V.Saas	Plumber General	15.11.2021	40	40	37	3	0	6.12.2021
+CSR-RPL (KBL)	2011189	Medhavi Foundation	V.Saas	Plumber General	23.11.2021	45	44	39	5	1	6.12.2021
+CSR-RPL (KBL)	2004112	Saltlake	V.Saas	Plumber General	02.11.2021	40	36	36	0	4	6.12.2021
+CSR-RPL (KBL)	2011176	Medhavi Foundation	V.Saas	Plumber General	24.11.2021	45	44	42	2	1	6.12.2021
+CSR-RPL (KBL)	290697	Ideal Impression	V.Saas	Plumber General	26.10.2021	25	22	21	1	3	6.12.2021
+CSR-RPL (KBL)	290703	Ideal Impression	V.Saas	Plumber General	26.10.2021	25	23	23	0	2	6.12.2021
+CSR-RPL (KBL)	289923	Ideal Impression	V.Saas	Plumber General	21.10.2021	25	23	21	2	2	7.12.2021
+CSR-RPL (KBL)	289952	Ideal Impression	V.Saas	Plumber General	21.10.2021	25	13	13	0	12	7.12.2021
+CSR-RPL (KBL)	287862	STOP NGO	V.Saas	Plumber General	09.10.2021	39	37	37	0	2	7.12.2021
+CSR-RPL (KBL)	2009646	Ideal Impression	V.Saas	Plumber General	16.11.2021	19	18	18	0	1	7.12.2021
+CSR-RPL (KBL)	2012465	Lok Bharti	V.Saas	Plumber General	20.11.2021	35	35	34	1	0	7.12.2021
+CSR-RPL (KBL)	2013104	Lok Bharti	V.Saas	Plumber General	24.11.2021	40	40	39	1	0	7.12.2021
+CSR-RPL (KBL)	2008479	NAC	V.Saas	Plumber General	11.11.2021	25	22	19	3	3	7.12.2021
+CSR-RPL (KBL)	2008486	NAC	V.Saas	Plumber General	11.11.2021	25	22	19	3	3	7.12.2021
+CSR-RPL (KBL)	2000221	NAC	V.Saas	Plumber General	27.10.2021	25	22	20	2	3	7.12.2021
+CSR-RPL (KBL)	2008849	NAC	V.Saas	Plumber General	13.11.2021	25	24	21	3	1	7.12.2021
+CSR-RPL (KBL)	2008855	NAC	V.Saas	Plumber General	13.11.2021	25	24	21	3	1	7.12.2021
+CSR-RPL (KBL)	286954	DCVS	V.Saas	Plumber General	20.09.2021	30	14	14	0	16	7.12.2021
+CSR-RPL (KBL)	291339	Labournet	Mettl	Plumber General	27.10.2021	30	17	13	4	13	9.12.2021
+CSR-RPL (KBL)	2008082	Saltlake	Mettl	Plumber General	09.11.2021	32	29	21	8	3	9.12.2021
+CSR-RPL (KBL)	2007432	Indeva	Mettl	Plumber General	10.11.2021	40	40	33	7	0	9.12.2021
+CSR-RPL (KBL)	2008237	Prabhodita	Mettl	Plumber General	13.11.2021	40	20	19	1	20	9.12.2021
+HPKVN	2714634	Govt ITI-Dadasiba	Khwaspuria	Plumber General	27.08.2021	21	21	19	2	0	9.12.2021
+HPKVN	2714635	Govt ITI-Dadasiba	Khwaspuria	Plumber General	28.08.2021	18	18	17	1	0	9.12.2021
+CSR-STT	276291	SDI-Vskpm	VET	Plumber General	15.11.2021	11	11	7	4	0	9.12.2021
+CSR-STT	276002	SDI-Vskpm	VET	Plumber General	16.11.2021	23	16	12	4	7	9.12.2021
+CSR-STT	279207	SDI-Vskpm	VET	Plumber General	15.11.2021	21	21	16	5	0	9.12.2021
+CSR-RPL (KBL)	290718	Annai Education	VET	Plumber General	23.10.2021	40	35	34	1	5	13.12.2021
+CSR-RPL (KBL)	291123	Labournet	VET	Plumber General	27.10.2021	25	22	21	1	3	13.12.2021
+CSR-RPL (KBL)	291125	Labournet	VET	Plumber General	27.10.2021	25	19	16	3	6	13.12.2021
+CSR-RPL (KBL)	291134	Labournet	VET	Plumber General	29.10.2021	25	25	22	3	0	13.12.2021
+CSR-RPL (KBL)	2000228	NAC	VET	Plumber General	25.10.2021	25	20	20	0	5	13.12.2021
+CSR-RPL (KBL)	2008266	Labournet	VET	Plumber General	10.11.2021	25	20	18	2	5	13.12.2021
+CSR-RPL (KBL)	2008267	Labournet	VET	Plumber General	10.11.2021	25	23	23	0	2	13.12.2021
+CSR-RPL (KBL)	2008270	Labournet	VET	Plumber General	12.11.2021	25	22	18	4	3	13.12.2021
+CSR-RPL (KBL)	2008273	Annai Education	VET	Plumber General	9.11.2021	30	29	29	0	1	13.12.2021
+CSR-RPL (KBL)	2008765	Annai Education	VET	Plumber General	11.11.2021	35	34	33	1	1	13.12.2021
+CSR-RPL (KBL)	2009221	Labournet	VET	Plumber General	13.11.2021	30	23	23	0	7	13.12.2021
+CSR-RPL (KBL)	2009415	Annai Education	VET	Plumber General	13.11.2021	35	34	31	3	1	13.12.2021
+CSR-RPL (KBL)	2009653	Labournet	VET	Plumber General	17.11.2021	25	23	23	0	2	13.12.2021
+CSR-RPL (KBL)	2009688	Ideal Impression	VET	Plumber General	18.11.2021	25	20	16	4	5	13.12.2021
+CSR-RPL (KBL)	2009807	Annai Education	VET	Plumber General	14.11.2021	40	20	16	4	20	13.12.2021
+CSR-RPL (KBL)	2010236	Labournet	VET	Plumber General	19.11.2021	25	25	24	1	0	13.12.2021
+CSR-RPL (KBL)	2010647	Annai Education	VET	Plumber General	18.11.2021	30	30	30	0	0	13.12.2021
+CSR-RPL (KBL)	2010724	NAC	VET	Plumber General	18.11.2021	25	21	17	4	4	13.12.2021
+CSR-RPL (KBL)	2011129	NAC	VET	Plumber General	20.11.2021	25	21	20	1	4	13.12.2021
+CSR-RPL (KBL)	2011133	NAC	VET	Plumber General	20.11.2021	25	25	24	1	0	13.12.2021
+CSR-RPL (KBL)	2012950	Labournet	VET	Plumber General	25.11.2021	40	27	27	0	13	13.12.2021
+CSR-RPL (KBL)	2013327	Labournet	VET	Plumber General	26.11.2021	25	22	20	2	3	13.12.2021
+CSR-RPL (Apollo)	2007804	Ideal Impression	VET	Plumber General	8.11.2021	25	25	25	0	0	14.12.2021
+CSR-RPL (Apollo)	2007811	Ideal Impression	VET	Plumber General	8.11.2021	25	24	24	0	1	14.12.2021
+CSR-RPL (Apollo)	287638	GnG Skills	Mettl	Plumber General	10.10.2021	20	19	18	1	1	14.12.2021
+CSR-RPL (Apollo)	282566	GnG Skills	V.Saas	Plumber General	25.9.2021	40	39	37	2	1	14.12.2021
+CSR-RPL (Apollo)	283369	Ideal Impression	V.Saas	Plumber General	28.9.2021	25	22	21	1	3	14.12.2021
+CSR-RPL (Apollo)	283371	Ideal Impression	V.Saas	Plumber General	28.9.2021	25	23	22	1	2	14.12.2021
+CSR-RPL (Apollo)	288749	Ideal Impression	V.Saas	Plumber General	16.10.2021	18	9	8	1	9	14.12.2021
+CSR-RPL (Apollo)	288742	Ideal Impression	V.Saas	Plumber General	16.10.2021	25	14	10	4	11	14.12.2021
+NULM	216375	Ascensive Educare	V.Saas	Plumber General	15.4.2021	25	25	24	1	0	23.12.2021
+NULM	216376	Ascensive Educare	V.Saas	Plumber General	22.10.2021	25	25	23	2	0	23.12.2021
+NULM	227076	Ascensive Educare	V.Saas	Plumber General	23.10.2021	25	25	23	2	0	23.12.2021
+NULM	227075	Ascensive Educare	V.Saas	Plumber General	21.10.2021	25	25	23	2	0	23.12.2021
+CSR-RPL (KBL)	2015461	Adept Edusys	Mettl	Plumber General	05.12.2021	39	38	22	16	1	29.12.2021
+CSR-RPL (KBL)	2018368	Annai Education	Khwaspuria	Plumber General	11.12.2021	35	35	33	2	0	29.12.2021
+CSR-RPL (KBL)	2020475	Annai Education	Khwaspuria	Plumber General	16.12.2021	40	40	36	4	0	29.12.2021
+CSR-RPL (KBL)	2013466	Ideal Impression	Khwaspuria	Plumber General	27.11.2021	25	23	22	1	2	29.12.2021
+CSR-RPL (KBL)	2013506	Ideal Impression	Khwaspuria	Plumber General	27.11.2021	25	23	20	3	2	29.12.2021
+CSR-RPL (KBL)	2016986	Labournet	Khwaspuria	Plumber General	18.12.2021	40	38	34	4	2	29.12.2021
+CSR-RPL (KBL)	2018381	Annai Education	Khwaspuria	Plumber General	11.12.2021	35	35	30	5	0	29.12.2021
+CSR-RPL (KBL)	2018434	Labournet	Khwaspuria	Plumber General	19.12.2021	40	38	35	3	2	29.12.2021
+CSR-RPL (KBL)	2018446	Sanskar Education Hub	Khwaspuria	Plumber General	14.12.2021	36	36	35	1	0	29.12.2021
+CSR-RPL (KBL)	2019469	DCVS	Khwaspuria	Plumber General	16.11.2021	30	29	27	2	1	29.12.2021
+CSR-RPL (KBL)	2019766	Annai Education	Khwaspuria	Plumber General	16.12.2021	35	35	32	3	0	29.12.2021
+CSR-RPL (KBL)	2020484	NAC	Khwaspuria	Plumber General	18.12.2021	25	25	24	1	0	29.12.2021
+CSR-RPL (KBL)	2020493	NAC	Khwaspuria	Plumber General	18.12.2021	25	25	20	5	0	29.12.2021
+CSR-RPL (KBL)	2021755	NAC	Khwaspuria	Plumber General	21.12.2021	25	25	20	5	0	29.12.2021
+CSR-RPL (KBL)	2021761	NAC	Khwaspuria	Plumber General	21.12.2021	25	21	18	3	4	29.12.2021
+CSR-RPL (KBL)	2017424	Ideal Impression	Mettl	Plumber General	09.12.2021	25	16	6	10	9	30.12.2021
+CSR-RPL (KBL)	2016603	Lok Bharti	Mettl	Plumber General	04.12.2021	35	34	17	17	1	30.12.2021
+CSR-RPL (KBL)	2015624	Saltlake	Mettl	Plumber General	04.12.2021	38	35	28	7	3	30.12.2021
+CSR-RPL (KBL)	2019905	Ideal Impression	Mettl	Plumber General	19.12.2021	24	7	6	1	17	30.12.2021
+CSR-RPL (KBL)	2019904	Ideal Impression	Mettl	Plumber General	19.12.2021	25	11	11	0	14	30.12.2021
+CSR-RPL (KBL)	2019670	Lok Bharti	Mettl	Plumber General	15.12.2021	40	27	24	3	13	30.12.2021
+CSR-RPL (KBL)	2022960	Lok Bharti	Mettl	Plumber General	23.12.2021	30	26	16	10	4	13.1.2022
+CSR-RPL (KBL)	2022643	Annai Education	SM	Plumber General	23.12.2021	30	29	29	0	1	30.12.2021
+CSR-RPL (KBL)	2014218	Annai Education	SM	Plumber General	03.12.2021	40	38	35	3	2	30.12.2021
+CSR-RPL (KBL)	2014621	Annai Education	SM	Plumber General	03.12.2021	30	28	24	4	2	30.12.2021
+CSR-RPL (KBL)	2017590	Annai Education	SM	Plumber General	07.12.2021	40	39	34	5	1	30.12.2021
+CSR-RPL (KBL)	2018297	Annai Education	SM	Plumber General	09.12.2021	35	34	31	3	1	30.12.2021
+CSR-RPL (KBL)	2018303	Annai Education	SM	Plumber General	09.12.2021	31	31	27	4	0	31.12.2021
+CSR-RPL (KBL)	2018383	Annai Education	SM	Plumber General	11.12.2021	35	34	30	4	1	31.12.2021
+CSR-RPL (KBL)	2018386	Annai Education	SM	Plumber General	11.12.2021	36	36	33	3	0	31.12.2021
+CSR-RPL (KBL)	2014619	Annai Education	SM	Plumber General	3.12.2021	30	26	21	5	4	31.12.2021
+CSR-RPL (KBL)	2021401	Annai Education	SM	Plumber General	18.12.2021	40	35	32	3	5	31.12.2021
+CSR-RPL (KBL)	2021406	Annai Education	SM	Plumber General	18.12.2021	40	39	37	2	1	31.12.2021
+CSR-RPL (KBL)	2019752	Annai Education	SM	Plumber General	16.12.2021	40	38	33	5	2	31.12.2021
+CSR-RPL (KBL)	2019757	Annai Education	SM	Plumber General	16.12.2021	40	40	40	0	0	31.12.2021
+CSR-RPL (KBL)	2022229	Annai Education	SM	Plumber General	21.12.2021	34	34	34	0	0	31.12.2021
+CSR-RPL (KBL)	2016296	Adept Edusys	VET	Plumber General	7.12.2021	38	34	33	1	4	31.12.2021
+CSR-RPL (KBL)	2017588	Annai Education	VET	Plumber General	9.12.2021	40	40	40	0	0	31.12.2021
+CSR-RPL (KBL)	2017595	Annai Education	VET	Plumber General	7.12.2021	29	29	29	0	0	31.12.2021
+CSR-RPL (KBL)	2018299	Annai Education	VET	Plumber General	9.12.2021	35	35	33	2	0	31.12.2021
+CSR-RPL (KBL)	2020467	Annai Education	VET	Plumber General	16.12.2021	40	40	38	2	0	31.12.2021
+CSR-RPL (KBL)	2020820	Veronics	VET	Plumber General	17.12.2021	10	10	9	1	0	31.12.2021
+CSR-RPL (KBL)	2020970	Labournet	VET	Plumber General	18.12.2021	37	13	10	3	24	31.12.2021
+CSR-RPL (KBL)	2021056	Veronics	VET	Plumber General	17.12.2021	18	8	7	1	10	31.12.2021
+CSR-RPL (KBL)	2021407	Annai Education	VET	Plumber General	18.12.2021	40	40	37	3	0	31.12.2021
+CSR-RPL (KBL)	2017419	Ideal Impression	VET	Plumber General	09.12.2021	25	23	23	0	2	31.12.2021
+CSR-RPL (KBL)	2022223	Annai Education	VET	Plumber General	21.12.2021	40	40	39	1	0	31.12.2021
+CSR-RPL (KBL)	2018323	Labournet	Khwaspuria	Plumber General	20.12.2021	40	39	36	3	1	31.12.2021
+CSR-RPL (KBL)	2014617	Annai Education	Navriti	Plumber General	03.12.2021	35	35	33	2	0	31.12.2021
+CSR-RPL (KBL)	2017438	Ideal Impression	Navriti	Plumber General	11.12.2021	25	11	10	1	14	31.12.2021
+CSR-RPL (KBL)	2017473	Ideal Impression	Navriti	Plumber General	11.12.2021	20	8	7	1	12	31.12.2021
+CSR-RPL (KBL)	2017594	Annai Education	Navriti	Plumber General	7.12.2021	30	27	25	2	3	31.12.2021
+CSR-RPL (KBL)	2019162	Indeva	Navriti	Plumber General	16.12.2021	40	33	31	2	7	31.12.2021
+CSR-RPL (KBL)	2019787	Annai Education	Navriti	Plumber General	16.12.2021	35	35	31	4	0	31.12.2021
+CSR-RPL (KBL)	2020134	Saltlake	Navriti	Plumber General	3.12.2021	40	33	33	0	7	31.12.2021
+CSR-RPL (KBL)	2021250	Lok Bharti	Navriti	Plumber General	18.12.2021	40	38	34	4	2	31.12.2021
+CSR-RPL (KBL)	2022864	Annai Education	Navriti	Plumber General	23.12.2021	30	30	30	0	0	31.12.2021
+CSR-RPL (KBL)	2022866	Labournet	Navriti	Plumber General	23.12.2021	47	46	46	0	1	31.12.2021
+CSR-RPL (KBL)	2023190	Labournet	Navriti	Plumber General	24.12.2021	48	45	43	2	3	31.12.2021
+CSR-RPL (KBL)	2021043	Ideal Impression	V.Saas	Plumber General	18.12.2021	25	24	24	0	1	31.12.2021
+CSR-RPL (KBL)	2018676	Ideal Impression	V.Saas	Plumber General	21.12.2021	25	25	25	0	0	31.12.2021
+CSR-RPL (KBL)	2018682	Ideal Impression	V.Saas	Plumber General	21.12.2021	21	21	21	0	0	31.12.2021
+CSR-RPL (Apollo)	2024508	Labournet	Khwaspuria	Plumber General	26.12.2021	50	50	44	6	0	31.12.2021
+ASDM-PLSTP	262841	Global Peers	V.Saas	Plumber General	22.10.2021	25	25	24	1	0	7.1.2022
+ASDM-PLSTP	262843	Global Peers	V.Saas	Plumber General	23.10.2021	25	25	23	2	0	7.1.2022
+DDUGKY	276695	KLS Pvt Ltd	V.Saas	Plumber General	7.9.2021	30	30	28	2	0	7.1.2022
+CSR-RPL (KBL)	2023817	Labournet	Navriti	Plumber General	29.12.2021	2	2	2	0	0	8.1.2022
+CSR-RPL (KBL)	2025118	Saltlake	Navriti	Plumber General	29.12.2021	39	39	36	3	0	8.1.2022
+CSR-RPL (KBL)	2024366	Labournet	Navriti	Plumber General	29.12.2021	38	37	35	2	1	9.1.2022
+JJM-Assam	259911	NRDS Management	SM	Plumber General	27.10.2021	30	29	27	2	1	10.1.2022
+JJM-Assam	259918	NRDS Management	SM	Plumber General	25.10.2021	30	26	26	0	4	10.1.2022
+JJM-Assam	282709	NRDS Management	SM	Plumber General	26.10.2021	47	46	43	3	1	10.1.2022
+DDUGKY	277431	MoRD	Navriti	Plumber General	1.10.2021	29	29	24	5	0	10.1.2022
+DDUGKY	281463	NAC	VET	Plumber General	1.10.2021	17	17	17	0	0	10.1.2022
+CSR-RPL (KBL)	2020155	SLIEM	V.Saas	Plumber General	18.12.2021	34	34	32	2	0	10.1.2022
+CSR-RPL (KBL)	2016976	Labournet	V.Saas	Plumber General	28.12.2021	40	40	39	1	0	10.1.2022
+CSR-RPL (KBL)	2016967	Labournet	V.Saas	Plumber General	28.12.2021	40	39	38	1	1	10.1.2022
+CSR-RPL (KBL)	2019803	Labournet	V.Saas	Plumber General	29.12.2021	40	38	36	2	2	10.1.2022
+CSR-RPL (KBL)	2021467	NAC	Explore D	Plumber General	21.12.2021	25	23	22	1	2	10.1.2022
+CSR-RPL (KBL)	2021486	NAC	Explore D	Plumber General	21.12.2021	25	24	23	1	1	10.1.2022
+CSR-RPL (KBL)	2014213	Annai Education	Explore D	Plumber General	3.12.2021	40	37	36	1	3	10.1.2022
+CSR-RPL (KBL)	2017592	Annai Education	Explore D	Plumber General	3.12.2021	40	38	36	2	2	10.1.2022
+CSR-RPL (Apollo)	280651	Ideal Impression	Mettl	Plumber General	21.9.2021	17	6	3	3	11	13.1.2022
+CSR-RPL (Apollo)	280642	Ideal Impression	Mettl	Plumber General	21.9.2021	25	12	7	5	13	13.1.2022
+CSR-RPL (Apollo)	280595	Ideal Impression	Mettl	Plumber General	20.9.2021	19	12	9	3	7	13.1.2022
+CSR-RPL (Apollo)	280584	Ideal Impression	Mettl	Plumber General	20.9.2021	25	12	9	3	13	13.1.2022
+CSR-RPL (KBL)	2021054	Ideal Impression	V.Saas	Plumber General	18.12.2021	20	20	20	0	0	13.1.2022
+CSR-RPL (KBL)	2024062	Labournet	Navriti	Plumber General	2.1.2022	40	39	37	2	1	13.1.2022
+NULM	284982	Doric Multimedia	SM	Plumber General	16.12.2021	30	30	28	2	0	20.1.2022
+JJM-Assam	224646	Valeur	Explore D	Plumber General	13.03.2021	30	29	28	1	1	21.01.2022
+JJM-Assam	239084	Valeur	Explore D	Plumber General	10.03.2021	30	28	27	1	2	21.01.2022
+JJM-Assam	243219	Valeur	Explore D	Plumber General	17.03.2021	30	28	28	0	2	21.01.2022
+JJM-Assam	243237	Valeur	Explore D	Plumber General	16.03.2021	30	28	26	2	2	21.01.2022
+JJM-Assam	245603	Valeur	Explore D	Plumber General	20.03.2021	30	30	28	2	0	21.01.2022
+JJM-Assam	245652	Valeur	Explore D	Plumber General	18.03.2021	30	30	28	2	0	21.01.2022
+JJM-Assam	245663	Valeur	Explore D	Plumber General	18.03.2021	30	30	29	1	0	21.01.2022
+JJM-Assam	223462	Valeur	Explore D	Plumber General	13.03.2021	30	25	23	2	5	21.01.2022
+JJM-Assam	231774	Valeur	Explore D	Plumber General	15.03.2021	30	26	25	1	4	21.01.2022
+JJM-Assam	232203	Valeur	Explore D	Plumber General	6.03.2021	30	22	22	0	8	21.01.2022
+JJM-Assam	245604	Valeur	Explore D	Plumber General	20.03.2021	30	22	22	0	28	21.01.2022
+JJM-Assam	245643	Valeur	Explore D	Plumber General	03.04.2021	30	30	28	2	0	21.01.2022
+JJM-Assam	245661	Valeur	Explore D	Plumber General	08.04.2021	30	30	29	1	0	21.01.2022
+JJM-Assam	246721	Valeur	Explore D	Plumber General	03.04.2021	30	30	29	1	0	21.01.2022
+JJM-Assam	247007	Valeur	Explore D	Plumber General	08.04.2021	30	28	26	2	2	21.01.2022
+JJM-Assam	247043	Valeur	Explore D	Plumber General	07.04.2021	30	29	28	1	1	21.01.2022
+JJM-Assam	247295	Valeur	Explore D	Plumber General	07.04.2021	30	30	28	2	0	21.01.2022
+JJM-Assam	245649	Valeur	Explore D	Plumber General	02.04.2021	30	30	29	1	0	21.01.2022
+JJM-Assam	245650	Valeur	Explore D	Plumber General	02.04.2021	30	30	28	2	0	21.01.2022
+JJM-Assam	258099	Valeur	VSAAS	Plumber General	12.04.2021	32	31	31	0	0	21.01.2022
+JJM-Assam	260529	Valeur	Explore D	Plumber General	17.04.2021	39	39	36	3	0	21.01.2022
+JJM-Assam	257683	Valeur	Explore D	Plumber General	17.04.2021	35	35	33	2	0	21.01.2022
+JJM-Assam	260630	Valeur	Mettl	Plumber General	19.04.2021	20	20	3	17	0	21.01.2022
+JJM-Assam	239242	Valeur	Explore D	Plumber General	16.03.2021	30	30	29	1	0	21.01.2022
+JJM-Assam	245555	Valeur	Khwaspuria	Plumber General	12.4.2021	30	30	28	2	0	21.01.2022
+JJM-Assam	245557	Valeur	Khwaspuria	Plumber General	12.4.2021	13	13	12	1	0	21.01.2022
+NULM	280608	GKITR	VET	Plumber General	21.12.2021	30	30	29	1	0	21.01.2022
+NULM	290102	GKITR	VET	Plumber General	23.12.2021	29	29	29	0	0	21.01.2022
+NULM	271989	GKITR	VET	Plumber General	24.12.2021	26	26	25	1	0	21.01.2022
+CSR-RPL (KBL)	2035197	Lok Bharti	SM	Plumber General	19.01.2022	35	29	28	1	6	24.01.2022
+CSR-RPL (KBL)	2025323	Annai Education	SM	Plumber General	30.12.2021	36	36	32	4	0	24.01.2022
+CSR-RPL (KBL)	2032824	Labournet	SM	Plumber General	11.01.2022	48	31	12	19	17	24.01.2022
+CSR-RPL (KBL)	2025331	Annai Education	SM	Plumber General	29.12.2021	35	35	35	0	0	24.01.2022
+CSR-RPL (KBL)	2032871	Labournet	SM	Plumber General	13.01.2022	41	24	20	4	17	24.01.2022
+CSR-RPL (KBL)	2032441	Sanskar	Mettl	Plumber General	12.01.2022	32	12	12	0	20	24.01.2022
+CSR-RPL (KBL)	2034776	Indeva	Mettl	Plumber General	19.01.2022	40	32	29	3	8	24.01.2022
+CSR-RPL (KBL)	2035783	Ideal Impression	Mettl	Plumber General	20.01.2022	20	16	16	0	4	24.01.2022
+CSR-RPL (KBL)	2035742	Ideal Impression	Mettl	Plumber General	20.01.2022	20	17	15	2	3	24.01.2022
+CSR-RPL (KBL)	2031132	Labournet	Navriti	Plumber General	16.01.2022	35	29	27	2	6	24.01.2022
+CSR-RPL (KBL)	2019805	Labournet	Navriti	Plumber General	06.01.2022	40	36	34	2	4	24.01.2022
+CSR-RPL (KBL)	2019808	Labournet	Navriti	Plumber General	07.01.2022	37	34	32	2	3	24.01.2022
+CSR-RPL (KBL)	2024052	Labournet	Navriti	Plumber General	08.01.2022	35	34	33	1	1	24.01.2022
+CSR-RPL (KBL)	2024054	Labournet	Navriti	Plumber General	09.01.2022	30	30	28	2	0	24.01.2022
+CSR-RPL (KBL)	2025741	Data Pro	Navriti	Plumber General	11.01.2022	40	37	35	2	3	24.01.2022
+CSR-RPL (KBL)	2031988	Adept Edusys	Navriti	Plumber General	12.01.2022	40	16	16	0	24	24.01.2022
+CSR-RPL (KBL)	2033197	Labournet	Navriti	Plumber General	15.01.2022	38	36	34	2	2	24.01.2022
+CSR-RPL (KBL)	2033198	Labournet	Navriti	Plumber General	13.01.2022	34	34	33	1	0	24.01.2022
+CSR-RPL (KBL)	2022641	Annai Education	VET	Plumber General	23.12.2021	35	35	35	0	0	24.01.2022
+CSR-RPL (KBL)	2023804	Labournet	VET	Plumber General	26.12.2021	31	16	13	3	15	24.01.2022
+CSR-RPL (KBL)	2023807	Labournet	VET	Plumber General	31.12.2021	35	33	30	3	2	24.01.2022
+CSR-RPL (KBL)	2024129	Lok Bharti	VET	Plumber General	24.12.2021	24	24	24	0	0	24.01.2022
+CSR-RPL (KBL)	2024258	Labournet	VET	Plumber General	03.01.2022	40	38	36	2	2	24.01.2022
+CSR-RPL (KBL)	2024264	Labournet	VET	Plumber General	04.01.2022	40	40	37	3	0	24.01.2022
+CSR-RPL (KBL)	2025302	Labournet	VET	Plumber General	05.01.2022	38	36	34	2	2	24.01.2022
+CSR-RPL (KBL)	2029784	Yotta Edutech	VET	Plumber General	14.01.2022	35	24	19	5	11	24.01.2022
+CSR-RPL (KBL)	2029788	Yotta Edutech	VET	Plumber General	14.01.2022	19	16	15	1	3	24.01.2022
+CSR-RPL (KBL)	2034554	Yotta Edutech	VET	Plumber General	14.01.2022	16	13	13	0	3	24.01.2022
+NULM	281784	Guru Kripa 	Mettl	Plumber General	22.11.2021	30	30	22	8	0	28.1.2022
+NULM	282296	Guru Kripa 	Mettl	Plumber General	23.11.2021	29	29	26	3	0	28.1.2022
+NULM	284983	Guru Kripa 	Mettl	Plumber General	25.11.2021	29	29	24	5	0	28.1.2022
+CSR-RPL (KBL)	2033300	Ideal Impression	V.Saas	Plumber General	18.01.2022	20	16	14	2	4	28.1.2022
+CSR-RPL (KBL)	2033498	Ideal Impression	V.Saas	Plumber General	18.01.2022	20	15	14	1	5	28.1.2022
+CSR-RPL (KBL)	2031166	Labournet	V.Saas	Plumber General	18.01.2022	27	27	24	3	0	28.1.2022
+CSR-RPL (KBL)	2033200	Labournet	V.Saas	Plumber General	18.01.2022	24	22	21	1	2	28.1.2022
+CSR-RPL (KBL)	2031177	Labournet	V.Saas	Plumber General	17.01.2022	34	34	27	7	0	28.1.2022
+CSR-RPL (KBL)	2024344	Lok Bharti	Khwaspuria	Plumber General	26.12.2022	40	36	33	3	4	28.1.2022
+CSR-RPL (KBL)	2025122	Lok Bharti	Khwaspuria	Plumber General	28.12.2021	27	27	22	0	5	28.1.2022
+CSR-RPL (KBL)	2024057	Labournet	Khwaspuria	Plumber General	30.12.2021	39	39	34	5	0	28.1.2022
+CSR-RPL (KBL)	2024060	Labournet	Khwaspuria	Plumber General	31.12.2021	40	40	36	4	0	28.1.2022
+CSR-RPL (KBL)	2025379	Data Pro	Khwaspuria	Plumber General	6.1.2022	40	40	37	3	0	28.1.2022
+CSR-RPL (KBL)	2025366	Data Pro	Khwaspuria	Plumber General	5.1.2022	40	40	36	4	0	28.1.2022
+CSR-RPL (KBL)	2011216	Annai Education	Explore D	Plumber General	18.11.2021	35	31	29	2	4	28.1.2022
+CSR-RPL (KBL)	2025324	Annai Education	Explore D	Plumber General	29.12.2021	36	36	35	1	0	28.1.2022
+CSR-RPL (KBL)	2025327	Annai Education	Explore D	Plumber General	29.12.2021	36	36	35	1	0	28.1.2022
+CSR-RPL (KBL)	2022271	SLIEM	Explore D	Plumber General	22.12.2021	30	29	28	1	1	28.1.2022
+DDUGKY	421477	Pipal Tree	V.Saas	Plumber General Assisstant	27.2.2019	35	33	31	2	2	29.1.2022
+DDUGKY	421706	Pipal Tree	V.Saas	Plumber General Assisstant	28.2.2019	35	33	30	3	2	29.1.2022
+State Govt-Meghalaya (MUDA)- Reassessment	2014514	Saltlake	SM	Plumber General	17.12.21	9	9	9	0	0	31.1.2022
+CSR-RPL (KBL)	2038576	Labournet	VET	Plumber General	28.1.2022	39	28	26	2	11	2.2.2022
+CSR-RPL (KBL)	2038161	Labournet	VET	Plumber General	28.1.2022	41	41	38	3	0	2.2.2022
+CSR-RPL (KBL)	2035813	Labournet	VET	Plumber General	20.1.2022	40	21	4	17	19	2.2.2022
+CSR-RPL (KBL)	2035975	Annai Education	VET	Plumber General	22.1.2022	30	29	28	1	1	2.2.2022
+CSR-RPL (KBL)	2036838	Lok Bharti	VET	Plumber General	25.1.2022	36	35	35	0	1	2.2.2022
+CSR-RPL (KBL)	2036842	Lok Bharti	VET	Plumber General	27.1.2022	35	35	34	1	0	2.2.2022
+CSR-RPL (KBL)	2035948	Annai Education	SM	Plumber General	22.1.2022	35	35	35	0	0	2.2.2022
+CSR-RPL (KBL)	2035947	Annai Education	SM	Plumber General	22.1.2022	35	34	30	4	1	2.2.2022
+CSR-RPL (KBL)	2035198	Lok Bharti	SM	Plumber General	21.1.2022	35	30	30	0	5	2.2.2022
+CSR-RPL (KBL)	2037610	Annai Education	SM	Plumber General	25.1.2022	40	38	37	1	2	2.2.2022
+CSR-RPL (KBL)	2037613	Annai Education	SM	Plumber General	25.1.2022	31	31	25	6	0	2.2.2022
+CSR-RPL (KBL)	2038355- Reassessment	Adept Edusys	SM	Plumber General	27.1.2022	24	2	0	2	22	2.2.2022
+CSR-RPL (Apollo)	2031635	Labournet	SM	Plumber General	9.1.2022	46	45	41	4	1	2.2.2022
+CSR-RPL (Apollo)	2031638	Labournet	Mettl	Plumber General	9.1.2022	49	37	32	5	12	2.2.2022
+CSR-RPL (KBL)	2036983	Ideal Impression	Khwaspuria	Plumber General	25.1.2022	20	17	16	1	3	3.2.2022
+CSR-RPL (KBL)	2036986	Ideal Impression	Khwaspuria	Plumber General	25.1.2022	20	18	17	1	2	3.2.2022
+CSR-RPL (KBL)	2028936	Saltlake	Explore D	Plumber General	5.1.2022	40	39	38	1	1	3.2.2022
+CSR-RPL (KBL)	2035825	NAC	Explore D	Plumber General	20.1.2022	22	13	13	0	9	3.2.2022
+CSR-RPL (KBL)	2035828	NAC	Explore D	Plumber General	20.1.2022	22	11	11	0	11	3.2.2022
+CSR-RPL (KBL)	2037608	Annai Education	Mettl	Plumber General	25.1.2022	40	38	38	0	2	16.2.2022
+NBCFDC	2015508	e-Biz	V.Saas	Plumber General	6.7.2019	26	25	23	2	1	15.2.2022
+NBCFDC	2015509	e-Biz	V.Saas	Plumber General	6.7.2019	16	16	14	2	0	15.2.2022
+CSR-RPL (KBL)	2035950	Annai Education	Mettl	Plumber General	22.1.2022	35	35	35	0	0	16.2.2022
+CSR-RPL (KBL)	2037985	Labournet	Mettl	Plumber General	29.1.2022	38	38	33	5	0	16.2.2022
+CSR-RPL (KBL)	2039746	DCVS	Mettl	Plumber General	1.2.2022	38	27	25	2	11	16.2.2022
+CSR-RPL (KBL)	2040722	Annai Education	Mettl	Plumber General	3.2.2022	35	28	28	0	7	16.2.2022
+CSR-RPL (KBL)	2040729	Annai Education	Mettl	Plumber General	4.2.2022	40	28	28	0	12	16.2.2022
+CSR-RPL (KBL)	2035807	NAC	Navriti	Plumber General	22.1.2022	25	22	21	1	3	16.2.2022
+CSR-RPL (KBL)	2035793	NAC	Navriti	Plumber General	22.1.2022	25	22	21	1	3	16.2.2022
+CSR-RPL (KBL)	2035973	Annai Education	Navriti	Plumber General	22.1.2022	31	31	28	3	0	16.2.2022
+CSR-RPL (KBL)	2037612	Annai Education	Navriti	Plumber General	25.1.2022	35	33	31	2	2	16.2.2022
+CSR-RPL (KBL)	2040725	Annai Education	SM	Plumber General	3.2.2022	35	35	33	2	0	16.2.2022
+CSR-RPL (KBL)	2040727	Annai Education	SM	Plumber General	4.2.2022	40	39	38	1	1	17.2.2022
+CSR-RPL (KBL)	2043843	STOP	SM	Plumber General	11.2.2022	40	29	25	4	11	16.2.2022
+CSR-RPL (KBL)	2035199	Lok Bharti	V.Saas	Plumber General	23.1.2022	33	28	26	2	5	16.2.2022
+CSR-RPL (KBL)	2038004	Labournet	V.Saas	Plumber General	31.1.2022	40	40	40	0	0	16.2.2022
+CSR-RPL (KBL)	2037903	Saltlake	V.Saas	Plumber General	29.1.2022	40	24	24	0	16	16.2.2022
+CSR-RPL (KBL)	2036343	NAC	Explore D	Plumber General	22.1.2022	24	22	22	0	2	16.2.2022
+CSR-RPL (KBL)	2036359	NAC	Explore D	Plumber General	22.1.2022	25	22	21	1	3	16.2.2022
+CSR-RPL (KBL)	2038309- Reassessment	Sanskar Education Hub	Khwaspuria	Plumber General	31.1.2022	20	20	20	0	0	16.2.2022
+CSR-RPL (KBL)	2037420	Indeva	Khwaspuria	Plumber General	28.1.2022	40	35	32	3	5	16.2.2022
+CSR-RPL (KBL)	2042762	Ideal Impression	Khwaspuria	Plumber General	10.2.2022	40	39	34	5	1	17.2.2022
+CSR-RPL (KBL)	2040726	Annai Education	VET	Plumber General	3.2.2022	30	30	29	1	0	16.2.2022
+CSR-RPL (KBL)	2041282	Labournet	VET	Plumber General	5.2.2022	37	37	32	5	0	16.2.2022
+CSR-RPL (KBL)	2040534	Ideal Impression	Navriti	Plumber General	04.02.2022	40	34	32	2	6	21.02.2022
+CSR-RPL (KBL)	2041227	Ideal Impression	Navriti	Plumber General	06.02.2022	40	24	23	1	16	21.02.2022
+CSR-RPL (KBL)	2041994	SLIEM	Navriti	Plumber General	09.02.2022	36	34	31	3	2	21.02.2022
+CSR-RPL (KBL)	2042673	Labournet	Navriti	Plumber General	09.02.2022	48	41	37	4	7	21.02.2022
+CSR-RPL (Apollo)	2024510	Labournet	Khwaspuria	Plumber General	27.12.2021	50	50	46	4	0	23.02.2022
+CSR-RPL (Apollo)	2031643	Labournet	Khwaspuria	Plumber General	08.01.2022	49	47	45	2	2	21.02.2022
+CSR-RPL (KBL)	2030723	Labournet	Khwaspuria	Plumber General	09.01.2022	50	47	45	2	3	21.02.2022
+CSR-RPL (KBL)	2021409	Annai Education	Explore D	Plumber General	18.12.2021	36	32	31	1	4	22.02.2022
+CSR-RPL (KBL)	2010238	Labournet	Explore D	Plumber General	19.11.2021	25	20	18	2	5	23.02.2022
+CSR-RPL (KBL)	2044799	DCVS	V.Saas	Plumber General	26.11.2021	24	15	14	1	9	23.02.2022
+CSR-RPL (KBL)	2038266	Ideal Impression	V.Saas	Plumber General	28.1.2022	40	28	28	0	12	23.02.2022
+HPKVN	274899	Govt ITI-Nadaun	V.Saas	Plumber General	10.1.2022	29	23	21	2	0	22.02.2022
+CSR-STT	2009897	SDI-Vskpm	V.Saas	Plumber General	21.1.2022	28	28	28	0	0	23.02.2022
+CSR-STT	2032307	SDI-Vskpm	SM	Plumber General	4.2.2022	27	25	22	3	2	23.02.2022
+CSR-RPL (KBL)	2045458	Lok Bharti	Mettl	Plumber General	16.02.2022	30	29	28	1	1	23.02.2022
+CSR-RPL (KBL)	2040889	Labournet	V.Saas	Plumber General	07.02.2022	40	40	40	0	0	23.02.2022
+CSR-RPL (KBL)	2040856	Labournet	V.Saas	Plumber General	06.02.2022	40	40	40	0	0	23.02.2022
+CSR-RPL (KBL)	2043222	Labournet	Navriti	Plumber General	14.02.2022	40	39	35	4	1	23.02.2022
+CSR-RPL (KBL)	2043417	NAC	SM	Plumber General	17.02.2022	25	23	18	5	2	23.02.2022
+CSR-RPL (KBL)	2043219	Labournet	Navriti	Plumber General	15.02.2022	40	40	37	3	0	23.02.2022
+CSR-RPL (KBL)	2046563	Labournet	VET	Plumber General	18.02.2022	47	35	33	2	12	23.02.2022
+CSR-RPL (KBL)	2044747	DCVS	Mettl	Plumber General	26.11.2022	24	17	14	3	7	23.02.2022
+CSR-RPL (KBL)	2043221	Labournet	Navriti	Plumber General	13.02.2022	40	20	19	1	20	23.02.2022
+CSR-RPL (KBL)	2043231	Labournet	Khwaspuria	Plumber General	15.02.2022	40	40	37	3	0	23.02.2022
+CSR-RPL (KBL)	2043226	Labournet	Khwaspuria	Plumber General	16.02.2022	39	39	37	2	0	23.02.2022
+CSR-RPL (KBL)	2031118	Labournet	Khwaspuria	Plumber General	17.02.2022	35	35	32	3	0	24.02.2022
+CSR-RPL (Apollo)	2044066	Labournet	Mettl	Plumber General	13.02.2022	49	24	0	24	25	23.02.2022
+CSR-RPL (Apollo)	2044056	Labournet	Mettl	Plumber General	14.02.2022	40	38	30	8	2	23.02.2022
+CSR-RPL (Apollo)	2044210	Annai Education	SM	Plumber General	13.02.2022	35	22	18	4	13	23.02.2022
+CSR-RPL (Apollo)	2044207	Annai Education	Mettl	Plumber General	13.02.2022	35	20	20	0	15	23.02.2022
+JJM-Assam	230729	Valeur	Explore D	Plumber General	30.10.2021	25	25	23	2	0	23.02.2022
+JJM-Assam	230405	Valeur	Explore D	Plumber General	29.10.2021	25	25	24	1	0	23.02.2022
+JJM-Assam	259924	NRDS Management	Explore D	Plumber General	29.10.2021	30	30	29	1	0	23.02.2022
+JJM-Assam	285228	NRDS Management	Explore D	Plumber General	30.10.2021	55	43	41	2	12	23.02.2022
+CSR-RPL (KBL)	2047462	Labournet	Navriti	Plumber General	25.02.2022	40	39	35	4	1	28.02.2022
+CSR-RPL (Apollo)	2047200	Annai Education	VET	Plumber General	20.02.2021	22	20	16	4	2	1.3.2022
+CSR-RPL (Apollo)	2047198	Annai Education	SM	Plumber General	20.02.2021	40	17	14	3	23	1.3.2022
+CSR-RPL (KBL)	2047832	Labournet	Khwaspuria	Plumber General	02.02.2022	40	40	37	3	0	1.3.2022
+CSR-RPL (KBL)	2047214	Labournet	SM	Plumber General	22.02.2022	40	37	30	7	3	1.3.2022
+CSR-RPL (KBL)	2047892	Indeva	Mettl	Plumber General	23.02.2022	40	40	37	3	0	1.3.2022
+CSR-RPL (KBL)	2044041	Labournet	VSAAS	Plumber General	19.02.2022	40	39	39	0	1	1.3.2022
+CSR-RPL (KBL)	2044100	Labournet	VSAAS	Plumber General	17.02.2022	39	38	38	0	1	1.3.2022
+CSR-RPL (KBL)	2037991	Labournet	VSAAS	Plumber General	28.01.2022	38	38	38	0	0	1.3.2022
+CSR-RPL (KBL)	2038009	Labournet	VSAAS	Plumber General	01.02.2022	40	40	40	0	0	1.3.2022
+CSR-RPL (Apollo)	2049538	Labournet	Khwaspuria	Plumber General	26.02.2022	40	40	38	2	0	2.3.2022
+CSR-RPL (Apollo)	204212	Annai Education	Explore D	Plumber General	15.02.2022	32	32	31	1	0	2.3.2022
+CSR-RPL (KBL)	2047833	Labournet	Khwaspuria	Plumber General	25.02.2022	40	40	37	3	0	2.3.2022
+CSR-RPL (KBL)	2043223	Labournet	V.Saas	Plumber General	23.02.2022	39	39	39	0	0	3.3.2022
+CSR-RPL (KBL)	2025757	Data Pro	Mettl	Plumber General	24.02.2022	40	29	22	7	11	3.3.2022
+CSR-RPL (KBL)	277633	Labournet	SM	Plumber General	9.9.2021	40	35	30	5	5	3.3.2022
+CSR-RPL (KBL)	2028648	Veronics	Explore D	Plumber General	5.01.2022	40	39	37	2	1	3.3.2022
+HPKVN	271661	Govt ITI	Navriti	Plumber General	5.02.2022	22	19	18	1	3	3.3.2022
+CSR-STT	277477	CRISP	SM	Plumber General	14.12.2021	8	8	7	1	0	3.3.2022
+HPKVN	271280	Govt ITI Shamshi	VET	Plumber General	19.2.2022	26	24	24	0	2	3.3.2022
+HPKVN	274290	Govt ITI Shamshi	VET	Plumber General	20.2.2022	29	29	28	1	0	3.3.2022
+DDUGKY	67305	NAC	VET	Plumber General	11.3.2020	18	16	16	0	2	3.3.2022
+CSR-RPL (KBL)	2025763	Data Pro	Mettl	Plumber General	25.02.2022	40	39	36	3	1	04.03.2022
+CSR-RPL (KBL)	2025783	Data Pro	Mettl	Plumber General	26.02.2022	40	40	35	5	0	04.03.2022
+CSR-RPL (KBL)	2028648	Veronics	Explore D	Plumber General	1.05.2022	40	39	37	2	1	04.03.2022
+CSR-RPL (KBL)	2029466	Veronics	Explore D	Plumber General	06.01.2022	7	7	7	0	0	04.03.2022
+CSR-RPL (KBL)	2028839	Veronics	Explore D	Plumber General	24.01.2022	26	25	23	2	1	04.03.2022
+CSR-RPL (KBL)	2043225	Labournet	V.Saas	Plumber General	24.02.2022	43	43	37	6	0	04.03.2022
